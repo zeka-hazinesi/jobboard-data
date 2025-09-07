@@ -1,0 +1,12 @@
+{
+  "data": {
+    "searchJobs": {
+      "total": 1241,
+      "facets": [],
+      "hits": []
+    }
+  },
+  "extensions": {
+    "cacheability": null
+  }
+}

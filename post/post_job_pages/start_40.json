@@ -1,0 +1,212 @@
+{
+  "hasMoreJobItems": true,
+  "startNumber": 45,
+  "items": [
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Zusteller:in Briefe und Pakete",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Logistik-Services",
+        "workload": "80-100%",
+        "location": "Zermatt (Wallis)",
+        "date": "Online seit 29.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/zusteller-in-briefe-und-pakete/613fc231-d6e2-47bf-934a-e5c9cb41cd6a"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Information Security Officer im Bereich SAP-Plattformen",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Informatik / Technologie",
+        "workload": "70-100% (Jobsharing möglich)",
+        "location": "Bern und Homeoffice (Bern)",
+        "date": "Online seit 29.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/information-security-officer-im-bereich-sap-plattformen/795c56dc-aa36-46ae-a50b-7784894cbec6"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Responsable de la sécurité de l'information dans le domaine de plateformes SAP",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Informatik / Technologie",
+        "workload": "70-100% (Jobsharing possible)",
+        "location": "Berne et télétravail (Bern)",
+        "date": "Online seit 29.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/responsable-de-la-securite-de-l-information-dans-le-domaine-de-plateformes-sap/d6b2a9dd-9ff7-40ad-9a92-1ff5a61bcce0"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Information Security Officer per piattaforme SAP",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Informatik / Technologie",
+        "workload": "70-100% (Jobsharing possibile)",
+        "location": "Berna e homeoffice (Bern)",
+        "date": "Online seit 29.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/information-security-officer-per-piattaforme-sap/57fc4c50-a901-4815-bd47-f18de7feda7d"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Zusteller:in Briefe und Pakete",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Logistik-Services",
+        "workload": "80-100%",
+        "location": "Adligenswil (Luzern)",
+        "date": "Online seit 29.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/zusteller-in-briefe-und-pakete/37bb3917-f5b1-4810-811a-8172472a0fac"
+    }
+  ],
+  "resultsCount": 150
+}

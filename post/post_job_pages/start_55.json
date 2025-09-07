@@ -1,0 +1,212 @@
+{
+  "hasMoreJobItems": true,
+  "startNumber": 60,
+  "items": [
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Zusteller:in Briefe und Pakete",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Logistik-Services",
+        "workload": "50-100%",
+        "location": "Lyss, Murten, Wohlen, Büren an der Aare und Urtenen-Schönbühl (Bern)",
+        "date": "Online seit 27.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/zusteller-in-briefe-und-pakete/490db79d-2c15-47b4-abf3-efed527589a5"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Zusteller:in Briefe und Pakete",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Logistik-Services",
+        "workload": "80-100%",
+        "location": "Aarburg, Olten oder Zofingen (Solothurn)",
+        "date": "Online seit 27.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/zusteller-in-briefe-und-pakete/054eed66-cc8f-4b2a-b907-2487a24d5c0d"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Angebotsplaner:in mit Fokus Elektromobilität",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostAuto AG",
+        "workload": "80-100%",
+        "location": "Aarau, Homeoffice (Aargau)",
+        "date": "Online seit 26.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/angebotsplaner-in-mit-fokus-elektromobilitaet/9a4580ae-25c1-4c3b-a311-8cd506ac5375"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "PostAuto Chauffeur:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostAuto AG",
+        "workload": "80-100%",
+        "location": "Sarnen und Stans (Obwalden)",
+        "date": "Online seit 26.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/postauto-chauffeur-in/96ff441a-efe6-4452-b073-df31f8abe991"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Conseiller:ère clientèle privée, Lausanne",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostFinance AG",
+        "workload": "80-100%",
+        "location": "Lausanne (Waadt)",
+        "date": "Online seit 26.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/conseiller-ere-clientele-privee-lausanne/89419736-6d83-447f-b360-ec8ec8a1fd40"
+    }
+  ],
+  "resultsCount": 150
+}

@@ -1,0 +1,212 @@
+{
+  "hasMoreJobItems": true,
+  "startNumber": 25,
+  "items": [
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Strategie Specialist IT & Operations (w/m/d)",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostFinance AG",
+        "workload": "60-100%",
+        "location": "Bern / Homeoffice (Bern)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/strategie-specialist-it-operations-w-m-d/a123af52-c991-444b-bc28-1b3556ca329c"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Fachspezialist:in Infrastrukturmanagement",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostAuto AG",
+        "workload": "80-100%",
+        "location": "Bern, Homeoffice (Bern)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/fachspezialist-in-infrastrukturmanagement/85f1ae50-c753-4542-b765-b955a29e5be1"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Head of Digital Performance (w/m/d)",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostFinance AG",
+        "workload": "80-100%",
+        "location": "Bern / Homeoffice (Bern)",
+        "date": "Online seit 01.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/head-of-digital-performance-w-m-d/3e359f83-6349-4aac-8e5e-ab89e957dc53"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Process Excellence Expert:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostFinance AG",
+        "workload": "80-100%",
+        "location": "Bern / Homeoffice (Bern)",
+        "date": "Online seit 01.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/process-excellence-expert-in/2cd619d2-e7fa-4795-be7c-445d36e131ff"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Kundenberater:in öffentlicher Verkehr",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostAuto AG",
+        "workload": "100%",
+        "location": "Bern (Bern)",
+        "date": "Online seit 01.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/kundenberater-in-oeffentlicher-verkehr/dc63202e-aa09-4d63-9cc3-7c39227c772f"
+    }
+  ],
+  "resultsCount": 150
+}

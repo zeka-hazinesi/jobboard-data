@@ -1,0 +1,212 @@
+{
+  "hasMoreJobItems": true,
+  "startNumber": 100,
+  "items": [
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Nebenjob als Zeitungsfrühzusteller:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Presto AG",
+        "workload": "15-25%",
+        "location": "Kanton Schwyz (Schwyz)",
+        "date": "Online seit 20.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/nebenjob-als-zeitungsfruehzusteller-in/94111d15-3094-470a-9301-d3d3b59f5674"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Nebenjob als Zeitungsfrühzusteller:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Presto AG",
+        "workload": "5-20%",
+        "location": "Region Basel-Nordwestschweiz (Basel Land)",
+        "date": "Online seit 20.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/nebenjob-als-zeitungsfruehzusteller-in/1e6f8e8f-4d22-4cc3-90c2-3a6033b5b1ce"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Nebenjob als Zeitungsfrühzusteller:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Presto AG",
+        "workload": "5-20%",
+        "location": "Region Bern (Basel Stadt)",
+        "date": "Online seit 20.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/nebenjob-als-zeitungsfruehzusteller-in/9147604c-9711-4897-9ec3-a07321c34d8d"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "CI/CD & DevEx engineer",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Informatik / Technologie",
+        "workload": "80-100%",
+        "location": "Bern, Neuchâtel, Bellinzona and home office (Bern)",
+        "date": "Online seit 19.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/ci-cd-devex-engineer/10ad6952-bdff-4c9d-8b8b-e93074b92cdf"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "CI/CD & DevEx Engineer",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Informatik / Technologie",
+        "workload": "80-100%",
+        "location": "Berna, Neuchâtel, Bellinzona e home office (Bern)",
+        "date": "Online seit 19.08.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/ci-cd-devex-engineer/9f7ea888-b52d-4ee0-8887-b94c3154850f"
+    }
+  ],
+  "resultsCount": 150
+}

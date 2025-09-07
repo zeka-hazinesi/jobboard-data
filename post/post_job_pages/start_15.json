@@ -1,0 +1,212 @@
+{
+  "hasMoreJobItems": true,
+  "startNumber": 20,
+  "items": [
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "PostAuto Chauffeur:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostAuto AG",
+        "workload": "80-100%",
+        "location": "Bad Ragaz (Graubünden)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/postauto-chauffeur-in/ce5e4200-7716-47f6-928d-ee7c8ba5a8a4"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "PostAuto Chauffeur:in",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostAuto AG",
+        "workload": "80-100%",
+        "location": "Schiers (Graubünden)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/postauto-chauffeur-in/fb8474ef-a762-481d-9421-d35cbafe2fd2"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Mitarbeiter:in Compliance Office Privatkunden",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "PostFinance AG",
+        "workload": "60-100%",
+        "location": "Bern / Homeoffice (Bern)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/mitarbeiter-in-compliance-office-privatkunden/f1b1df56-499f-4807-8866-02ed87dffffc"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Legal Counsel",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Swiss Sign AG",
+        "workload": "80-100%",
+        "location": "Glattbrugg oder Lausanne (Waadt)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/legal-counsel/52791f40-1997-473f-88d2-45eddb964985"
+    },
+    {
+      "title": {
+        "headingLevel": 3,
+        "subtitle": null,
+        "title": "Sachbearbeiter:in Seefracht",
+        "titleClasses": [],
+        "subtitleClasses": [],
+        "newLine": false,
+        "url": null,
+        "target": null,
+        "classes": [
+          "ppm-title",
+          "ppm-jobs-list__title"
+        ],
+        "additionalAttributes": []
+      },
+      "info": {
+        "department": "Swiss Post Cargo",
+        "workload": "100%",
+        "location": "Kloten (Zürich)",
+        "date": "Online seit 02.09.2025"
+      },
+      "ctaLabel": {
+        "icon": {
+          "name": "3020_arrow-right",
+          "classes": [
+            "ppm-svg-icon",
+            "ppm-svg-icon--3020_arrow-right",
+            "ppm-jobs-list__cta-label-icon"
+          ],
+          "additionalAttributes": [
+            {
+              "name": "focusable",
+              "value": "false"
+            }
+          ]
+        },
+        "text": "Details anzeigen"
+      },
+      "url": "https://job.post.ch/v2/offene-stellen/sachbearbeiter-in-seefracht/23e51b7b-5906-4e89-a7cb-cd55ba2a09de"
+    }
+  ],
+  "resultsCount": 150
+}

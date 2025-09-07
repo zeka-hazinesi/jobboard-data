@@ -1,0 +1,51 @@
+,Unternehmen,Website,offene Stellen Link,# offene Stellen,gescraped?,Datum
+1,Migros,https://www.migros.ch,https://jobs.migros.ch/de/unsere-unternehmen/migros-gruppe/offene-stellen,1264,Ja,06/09/2025
+2,Coop,https://www.coop.ch,https://jobs.coopjobs.ch/,2870,Ja,06/09/2025
+3,Kanton Zürich,https://www.zh.ch,https://live.solique.ch/KTZH/de/#/,189,Ja,06/09/2025
+4,SBB,https://www.sbb.ch,https://company.sbb.ch/de/jobs-karriere/jobs/offene-stellen.html,230,Ja,06/09/2025
+5,Bundesverwaltung,https://www.admin.ch,https://www.stelle.admin.ch/stelle/de/home/stellen/stellenangebot.html,279,Ja,06/09/2025
+6,Schweizer Post,https://www.post.ch,https://www.post.ch/de/jobs/offene-stellen?jobsCategory=professionals&workload-maximum=1&workload-minimum=0,150,Ja,06/09/2025
+7,Kanton Bern,https://www.be.ch,https://www.jobs.sites.be.ch/de/start/jobs/jobs-fuer-berufserfahrene-berufseinsteigende-und-studierende.html,220,Ja,06/09/2025
+8,Swisscom,https://www.swisscom.ch,https://swisscom.wd103.myworkdayjobs.com/de-DE/SwisscomExternalCareers,84,Nein,06/09/2025
+9,ETH Zürich,https://ethz.ch,https://jobs.ethz.ch/,86,Ja,06/09/2025
+10,Kanton Genf,https://ge.ch,https://www.ge.ch/offres-emploi-etat-geneve/liste-offres,95,Nein,06/09/2025
+11,Swatch,https://www.swatch.com,https://www.swatchgroup.com/en/job-finder?jf_country=40&domain=All&position=All&contract=All&time=All,135,Nein,06/09/2025
+12,Kanton St.Gallen,https://www.sg.ch,https://www.sg.ch/ueber-den-kanton-st-gallen/arbeitgeber-kanton-stgallen/stellenportal.html,70,Nein,06/09/2025
+13,Roche,https://www.roche.com,https://careers.roche.com/de/de/search-results,160,Nein,06/09/2025
+14,Raiffeisen,https://raiffeisen.ch,https://jobs.raiffeisen.ch/,161,Nein,06/09/2025
+15,UBS,https://www.ubs.com,https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231#keyWordSearch=&locationSearch=Switzerland,103,Nein,06/09/2025
+16,Kanton Waadt,https://www.vd.ch,https://offres-emploi.vd.ch/#fr/sites/CX_1,34,Nein,06/09/2025
+17,HUG (Genfer Spitäler),https://www.hug.ch,https://careers.smartrecruiters.com/HUG,49,Nein,06/09/2025
+18,Kanton Aargau,https://www.ag.ch,https://www.ag.ch/de/ueber-uns/jobs-karriere/offene-stellen/stellenmarkt,79,Nein,06/09/2025
+19,CHUV (Universitätsspital Lausanne),https://www.chuv.ch,https://recrutement.chuv.ch/home.html#filter=p_web_site_id%3D5352%26p_published_to%3DWWW%26p_language%3DDEFAULT%26p_direct%3DY%26p_format%3DMOBILE%26p_search%3D,83,Nein,06/09/2025
+20,Lufthansa Group,https://www.lufthansagroup.com,https://apply.lufthansagroup.careers/index.php?ac=search_result&search_criterion_latitude%5B%5D=47.4525133&search_criterion_longitude%5B%5D=8.5861477&search_criterion_channel%5B%5D=12&search_criterion_division%5B%5D=5988&search_criterion_division%5B%5D=9122&search_criterion_division%5B%5D=6006&search_criterion_division%5B%5D=5422&search_criterion_division%5B%5D=9114&search_criterion_division%5B%5D=5926&search_criterion_distance%5B%5D=100&search_criterion_unit%5B%5D=km&search_criterion_physical_location_autocomplete%5B%5D=Kloten%20(8302%2C%20Z%C3%BCrich%2C%20Schweiz),26,Nein,06/09/2025
+21,Kanton Luzern,https://www.lu.ch,https://stellen.lu.ch/job,34,Nein,06/09/2025
+22,Fenaco,https://www.fenaco.com,https://www.fenaco.com/en/careers/job-vacancies,673,Nein,06/09/2025
+23,Valora,https://www.valora.com,https://career.valora.com/en/?criteria%5Bfulltext%5D=&google_autocomplete_search=&criteria%5Bperimeter%5D%5BautocompleteLocality%5D=&criteria%5Bperimeter%5D%5BautocompleteLatitude%5D=&criteria%5Bperimeter%5D%5BautocompleteLongitude%5D=&criteria%5Bperimeter%5D%5Bperimeter%5D=25&search_terms=&criteria%5BjobCountry%5D%5B%5D=1&search_terms=&search_terms=&search_terms=&search_terms=,37,Nein,06/09/2025
+24,Insel Gruppe AG,https://inselgruppe.ch,https://inselgruppe.ch/de/jobs-und-karriere/offene-stellen,274,Nein,06/09/2025
+25,ABB,https://abb.com,https://careers.abb/global/en/search-results,63,Nein,06/09/2025
+26,Helsana,https://www.helsana.ch,https://www.helsana.ch/de/helsana-gruppe/jobs/stellenangebote.html,39,Nein,06/09/2025
+27,AXA,https://www.axa.ch,https://www.axa.ch/de/ueber-axa/jobs-karriere/stellenangebote/offene-stellen.html,147,Nein,06/09/2025
+28,Kanton Tessin,https://www.ticino.ch,https://www4.ti.ch/dfe/dr/sru/lavorare-per-lamministrazione-cantonale/offerte-dimpiego,14,Nein,06/09/2025
+29,EPFL,https://www.epfl.ch,https://careers.epfl.ch/go/Personnel-Scientifique-%28FR%29/504774/,42,Nein,06/09/2025
+30,die Mobiliar,https://www.mobiliar.ch,https://jobs.mobiliar.ch/go/Jobs/506974/?_gl=1*50pnnx*_gcl_au*MTM4NTU4MTgyNS4xNzU3MTY3MDA3*_ga*MTM5NzU1OTgyLjE3NTcxNjcwMDc.*_ga_EY76QLBL7M*czE3NTcxNzE0MDYkbzIkZzEkdDE3NTcxNzE0MjAkajQ2JGwwJGgw&mldid=01991f509897000a05556d2325260506f001806700fb8,94,Nein,06/09/2025
+31,Brack,https://www.brack.ch,https://www.brack.ch/unternehmen/jobs,53,Nein,06/09/2025
+32,Sanitas,https://www.sanitas.com,https://www.sanitas.com/en/about-sanitas/career/vacancies.html,23,Nein,06/09/2025
+33,Webrepublic,https://www.webrepublic.com,https://www.webrepublic.com/en/jobs#openposition,9,Nein,06/09/2025
+34,SMG Swiss Marketplace Group,https://swissmarketplace.group,https://swissmarketplace.group/career/switzerland/,4,Nein,06/09/2025
+35,Rolex,https://www.rolex.com,https://www.carrieres-rolex.com/Rolex/go/Toutes-nos-offres-Rolex/2901501?q=&department=&facility=&shifttype=,191,Nein,06/09/2025
+36,Lindt & Sprüngli,https://www.lindt-spruengli.com,https://jobs.lindt.ch/arbeiten-bei-lindt/offene-stellen,20,Nein,06/09/2025
+37,Hirslanden,https://www.hirslanden.ch,https://careers.mediclinic.com/Hirslanden/search/?createNewAlert=false&q=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=&optionsFacetsDD_customfield5=&optionsFacetsDD_facility=&optionsFacetsDD_shifttype=,334,Nein,06/09/2025
+38,Apple,https://apple.com,https://jobs.apple.com/en-us/search?location=switzerland-CHEC,24,Nein,06/09/2025
+39,Google,https://www.google.com,https://www.google.com/about/careers/applications/jobs/results/?location=Zurich%2C%20Switzerland,30,Nein,06/09/2025
+40,Novartis,https://www.novartis.com,https://www.novartis.com/careers/career-search?search_api_fulltext=&country%5B%5D=LOC_CH&field_job_posted_date=All&op=Submit,80,Nein,06/09/2025
+41,Schindler,https://schindler.com,https://job.schindler.com/search/?q=&q2=&alertId=&locationsearch=&optionsFacetsDD_country=CH&title=&facility=&location=&date=,136,Nein,06/09/2025
+42,Siemens,https://www.siemens.com,https://jobs.siemens.com/careers?location=Schweiz&pid=563156131853882&domain=siemens.com&sort_by=relevance&utm_source=j_c_de&triggerGoButton=true&triggerGoButton=false,67,Nein,06/09/2025
+43,Ruag,https://www.ruag.ch,https://www.ruag.ch/en/working-us/job-portal,124,Nein,06/09/2025
+44,Suva,https://www.suva.ch,https://jobs.suva.ch/go/offene-Stellen/3914501/,22,Nein,06/09/2025
+45,Kanton Schaffhausen,https://sh.ch,https://recruitingapp-2876.umantis.com/Jobs/1?lang=ger&Reset=G,21,Nein,06/09/2025
+46,Emmi,https://group.emmi.com,https://group.emmi.com/che/en/working-at-emmi/job-vacancies,68,Nein,06/09/2025
+47,Zürcher Kantonalbank,https://www.zkb.ch,https://apply.refline.ch/792841/search.html,68,Nein,06/09/2025
+48,Emil Frey Group,https://emilfrey.ch,https://jobs.emilfrey.ch/stellenangebote.html,76,Nein,06/09/2025
+49,Swissquote,https://www.swissquote.com,https://www.swissquote.com/de/careers,36,Nein,06/09/2025
+50,Implenia,https://implenia.com,https://implenia.com/karriere/jobs,110,Nein,06/09/2025

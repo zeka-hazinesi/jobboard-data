@@ -1,0 +1,501 @@
+Rang,Unternehmen,Sitz,Kanton,Branche,Umsatz in Mio. Schweizer Franken,Umsatz in Mio. Euro
+1,Glencore International,Baar,ZG,Welt-/Rohstoffhandel,133'513,142.429
+2,Vitol,Genf,GE,Mineralölhandel,131'320,140.090
+3,Cargill International,Genf,GE,Welt-/Rohstoffhandel,107'870,115.074
+4,Mercuria Energy Trading,Genf,GE,Welt-/Rohstoffhandel,86'600,92.383
+5,Nestlé,Vevey,VD,Nahrungsmittel,84'343,89.975
+6,Roche Holding,Basel,BS,Chemie/Pharma,58'323,62.218
+7,Gunvor,Genf,GE,Mineralölhandel,46'900,50.032
+8,Novartis,Basel,BS,Chemie/Pharma,45'642,48.690
+9,BHP Billiton Group,Baar,ZG,Welt-/Rohstoffhandel,40'269,42.958
+10,Coop-Gruppe,Basel,BS,Mischkonzern,30'173,32.188
+11,Migros-Genossenschafts-Bund,Zürich,ZH,Mischkonzern,29'822,31.814
+12,Debiopharm International,Lausanne,VD,Chemie/Pharma,25'000,26.670
+13,Mediterranean Shipping Company,Genf,GE,Logistik/Spedition,25'000,26.670
+14,ABB,Zürich,ZH,Maschinenindustrie,24'514,26.151
+15,LafargeHolcim,Zug,ZG,Bauzulieferer/Bauelemente,23'142,24.687
+16,Socar Energy Trading,Genf,GE,Mineralölhandel,22'000,23.469
+17,Adecco,Glattbrugg,ZH,Temporärarbeit,20'930,22.328
+18,Kühne + Nagel International,Schindellegi,SZ,Logistik/Spedition,20'382,21.743
+19,Varo Energy Holding,Cham,ZG,Mineralölhandel,14'338,15.295
+20,Tetra Pak International,Pully,VD,Mischkonzern,14'065,15.004
+21,Richemont,Bellevue,GE,Mischkonzern,14'064,15.003
+22,Syngenta,Basel,BS,Chemie/Pharma,13'401,14.296
+23,Also Holding,Emmen,LU,Computer/Informatik,12'731,13.581
+24,Ineos Holdings,Rolle,VD,Chemie/Pharma,12'095,12.903
+25,MET Group,Zug,ZG,Welt-/Rohstoffhandel,11'924,12.720
+26,Emil Frey,Zürich,ZH,Automobilhandel/-import,11'500,12.268
+27,Kolmar Group,Zug,ZG,Mineralölhandel,11'500,12.268
+28,Swisscom,Worblaufen,BE,Telecom,11'100,11.841
+29,Liebherr International,Bulle,FR,Maschinenindustrie,11'065,11.804
+30,DKSH Holding,Zürich,ZH,Mischkonzern,10'742,11.459
+31,Schindler Holding,Hergiswil NW,NW,Maschinenindustrie,10'640,11.351
+32,SBB,Bern,BE,Bahnen/Öffentlicher Verkehr,9'216,9.831
+33,DXT Commodities,Lugano,TI,Energieversorgung/-verteilung,9'186,9.799
+34,CSL Behring,Bern,BE,Gesundheitswesen,8'630,9.206
+35,Transgourmet Holding,Basel,BS,Grosshandel (Food),8'109,8.651
+36,SoftwareONE,Stans,NW,Computer/Informatik,7'906,8.434
+37,Sika,Baar,ZG,Bauzulieferer/Bauelemente,7'878,8.404
+38,Die Schweizerische Post,Bern,BE,Dienstleistungen,7'054,7.525
+39,Fenaco,Bern,BE,Mischkonzern,6'981,7.447
+40,Ceva Logistics,Baar,ZG,Logistik/Spedition,6'956,7.421
+41,Barry Callebaut,Zürich,ZH,Schokoladeindustrie,6'893,7.353
+42,Ameropa Holding,Binningen,BL,Welt-/Rohstoffhandel,6'400,6.827
+43,Alcon,Genf,GE,Medizinaltechnik,6'344,6.768
+44,Givaudan,Vernier,GE,Chemie/Pharma,6'322,6.744
+45,EuroChem,Zug,ZG,Bergbau/Erdgas/Dünger,5'784,6.170
+46,SGS,Genf,GE,Dienstleistungen,5'604,5.978
+47,The Swatch Group,Neuenburg,NE,Uhrenindustrie,5'595,5.969
+48,Hilti,Schaan,,Befestigungstechnik,5'332,5.688
+49,Maus Frères Holding,Genf,GE,Mischkonzern,5'000,5.334
+50,Axpo Holding,Baden,AG,Energieversorgung/-verteilung,4'808,5.129
+51,Rolex,Les Acacias,GE,Uhrenindustrie,4'800,5.121
+52,Lonza Group,Basel,BS,Chemie/Pharma,4'508,4.809
+53,Bell Food Group,Basel,BS,Fleischverarbeitung,4'074,4.346
+54,Lindt & Sprüngli,Kilchberg,ZH,Nahrungsmittel,4'017,4.285
+55,AMAG-Gruppe,Zürich,ZH,Automobilhandel/-import,4'000,4.267
+56,Apple Switzerland,Zürich,ZH,Computer/Informatik,4'000,4.267
+57,Omya,Oftringen,AG,Mischkonzern,4'000,4.267
+58,Implenia,Dietlikon,ZH,Bauunternehmen,3'989,4.255
+59,Alpiq Holding,Lausanne,VD,Energieversorgung/-verteilung,3'905,4.166
+60,Firmenich International,Les Acacias,GE,Chemie/Pharma,3'900,4.160
+61,Rehau,Muri bei Bern,BE,Kunststofftechnologie,3'892,4.152
+62,Clariant,Muttenz,BL,Chemie/Pharma,3'860,4.118
+63,Denner,Zürich,ZH,Detailhandel,3'778,4.030
+64,Emmi AG,Luzern,LU,Nahrungsmittel,3'706,3.953
+65,TAG Heuer,La Chaux-de-Fonds,NE,Uhrenindustrie,3'591,3.831
+66,Galenica,Bern,BE,Gesundheitswesen,3'480,3.712
+67,Sulzer,Winterthur,ZH,Maschinenindustrie,3'319,3.541
+68,Georg Fischer AG,Schaffhausen,SH,Maschinenindustrie,3'184,3.397
+69,Aryzta,Zürich,ZH,Nahrungsmittel,3'136,3.345
+70,BKW,Bern,BE,Energieversorgung/-verteilung,3'129,3.338
+71,Stadler Rail,Bussnang,TG,Fahrzeug-/Karosseriebau,3'085,3.291
+72,Werco Trade,Zug,ZG,Welt-/Rohstoffhandel,3'004,3.205
+73,Geberit,Jona,SG,Bauzulieferer/Bauelemente,2'986,3.185
+74,Transocean,Zug,ZG,Mineralölhandel,2'955,3.152
+75,Artemis Holding,Hergiswil NW,NW,Mischkonzern,2'796,2.983
+76,Logitech International,Apples,VD,Computer/Informatik,2'791,2.977
+77,Endress+Hauser,Reinach,BL,Mess- und Regeltechnik,2'757,2.941
+78,Bucher Industries,Niederweningen,ZH,Maschinenindustrie,2'741,2.924
+79,Galderma Holding,La Tour-de-Peilz,VD,Chemie/Pharma,2'730,2.912
+80,Actelion,Allschwil,BL,Chemie/Pharma,2'700,2.880
+81,Bühler Holding,Uzwil,SG,Maschinenindustrie,2'700,2.880
+82,Sonova Holding,Stäfa,ZH,Elektronik/Elektrotechnik,2'602,2.776
+83,Google Switzerland,Zürich,ZH,Computer/Informatik,2'600,2.774
+84,Octapharma,Lachen,SZ,Grosshandel Chemie/Pharma,2'563,2.734
+85,Dufry,Basel,BS,Grosshandel (Non Food),2'561,2.732
+86,Dormakaba Holding,Rümlang,ZH,Elektronik/Elektrotechnik,2'540,2.710
+87,BMW (Schweiz),Dielsdorf,ZH,Automobilhandel/-import,2'513,2.681
+88,MSC Cruises,Genf,GE,Reiseunternehmen/Tourismus,2'500,2.667
+89,Mercedes-Benz Schweiz,Schlieren,ZH,Automobilhandel/-import,2'450,2.614
+90,Schmolz + Bickenbach,Luzern,LU,Metallverarbeitung,2'449,2.613
+91,Aldi Suisse,Schwarzenbach,SG,Detailhandel,2'380,2.539
+92,OC Oerlikon Corporation,Pfäffikon SZ,SZ,Mischkonzern,2'258,2.409
+93,Coop Mineraloel,Allschwil,BL,Mineralölhandel,2'197,2.344
+94,Franke Group,Aarburg,AG,Elektroapparate/Haushaltgeräte,2'178,2.323
+95,Hôpitaux universitaires de Genève,Genf,GE,Gesundheitswesen,2'147,2.290
+96,Siemens Schweiz,Zürich,ZH,Elektronik/Elektrotechnik,2'120,2.262
+97,Ferring Pharmaceuticals,St-Prex,VD,Chemie/Pharma,2'083,2.222
+98,Lidl Schweiz,Weinfelden,TG,Detailhandel,2'050,2.187
+99,SIG Combibloc Group,Neuhausen am Rheinfall,SH,Verpackung,1'943,2.073
+100,PostLogistics,Dintikon,AG,Gütertransporte/Terminals,1'933,2.062
+101,Swiss International Air Lines,Basel,BS,Luftverkehr,1'850,1.974
+102,Montana Tech Components,Reinach,AG,Metallverarbeitung,1'844,1.967
+103,Krono Holding,Luzern,LU,Bauzulieferer/Bauelemente,1'819,1.940
+104,Mediclinic Switzerland,Zürich,ZH,Gesundheitswesen,1'804,1.924
+105,Vifor Pharma,Glattbrugg,ZH,Chemie/Pharma,1'802,1.922
+106,Ems-Chemie,Domat/Ems,GR,Mischkonzern,1'802,1.922
+107,Lagerhäuser der Centralschweiz,Aarau,AG,Gütertransporte/Terminals,1'800,1.920
+108,Volg,Winterthur,ZH,Detailhandel,1'768,1.886
+109,Zur Rose,Steckborn,TG,Grosshandel Chemie/Pharma,1'752,1.869
+110,Swissport International,Glattbrugg,ZH,Dienstleistungen,1'750,1.867
+111,Autoneum Holding,Winterthur,ZH,Automobilhandel/-import,1'741,1.857
+112,Insel Gruppe,Bern,BE,Gesundheitswesen,1'725,1.840
+113,Repower,Poschiavo,GR,Energieversorgung/-verteilung,1'723,1.838
+114,SFS Holding,Heerbrugg,SG,Metallverarbeitung,1'705,1.819
+115,Digitec Galaxus,Zürich,ZH,Online Handel,1'699,1.812
+116,Valora Holding,Muttenz,BL,Grosshandel (Non Food),1'697,1.810
+117,Sunrise Communications,Zürich,ZH,Telecom,1'675,1.787
+118,Micarna,Courtepin,FR,Fleischverarbeitung,1'650,1.760
+119,Omega,Biel,BE,Uhrenindustrie,1'650,1.760
+120,Sicpa Holding,Prilly,VD,Mischkonzern,1'600,1.707
+121,Gategroup Holding,Kloten,ZH,Gastronomie/Catering,5'210,5'458
+122,Microsoft Schweiz,Wallisellen,ZH,Computer/Informatik,1'550,1.654
+123,Capri Sun Group Holding,Baar,ZG,Getränke/Brauereien/Spirituosen,1'500,1.600
+124,Manor,Basel,BS,Detailhandel,1'500,1.600
+125,IBM Schweiz,Zürich,ZH,Computer/Informatik,1'485,1.584
+126,Landi,Dotzigen,BE,Detailhandel,1'470,1.568
+127,SRG SSR,Bern,BE,Dienstleistungen,1'455,1.552
+128,Universitätsspital Zürich,Zürich,ZH,Gesundheitswesen,1'451,1.548
+129,HP Schweiz,Wallisellen,ZH,Computer/Informatik,1'430,1.525
+130,Straumann Holding,Basel,BS,Medizinaltechnik,1'426,1.521
+131,Securitas AG,Bern,BE,Dienstleistungen,1'423,1.518
+132,Partners Group Holding,Baar,ZG,Immobilien/GU/Dienstleistungen,1'412,1.506
+133,Merbag Holding,Cham,ZG,Automobilhandel/-import,1'400,1.493
+134,Triumph International,Bad Zurzach,AG,Bekleidungsindustrie,1'400,1.493
+135,AFG Arbonia-Forster-Holding,Arbon,TG,Bauzulieferer/Bauelemente,1'396,1.489
+136,SIX Group,Zürich,ZH,Dienstleistungen,1'376,1.468
+137,Bobst Group,Mex,VD,Maschinenindustrie,1'372,1.464
+138,Hewlett-Packard (Schweiz),Dübendorf,ZH,Computer/Informatik,1'330,1.419
+139,Archroma Management,Reinach,BL,Farbstoffe/Spezialchemie,1'313,1.401
+140,Zimmer GmbH,Winterthur,ZH,Medizinaltechnik,1'305,1.392
+141,Stäubli,Pfäffikon SZ,SZ,Maschinenindustrie,1'300,1.387
+142,swisspor Holding,St. Niklausen,LU,Bauzulieferer/Bauelemente,1'300,1.387
+143,Conzzeta,Zürich,ZH,Mischkonzern,1'284,1.370
+144,Landis+Gyr,Zug,ZG,Elektronik/Elektrotechnik,1'273,1.358
+145,Patek Philippe,Genf,GE,Uhrenindustrie,1'250,1.333
+146,HRS Holding,Frauenfeld,TG,Immobilien/GU/Dienstleistungen,1'243,1.326
+147,Mobilezone Holding,Regensdorf,ZH,Telecom,1'238,1.321
+148,Migrol,Zürich,ZH,Mineralölhandel,1'235,1.317
+149,Montres Longines,St-Imier,BE,Uhrenindustrie,1'200,1.280
+150,Ziegler Gruppe,Pratteln,BL,Logistik/Spedition,1'200,1.280
+151,Universitätsspital Basel,Basel,BS,Gesundheitswesen,1'186,1.265
+152,Ruag Holding,Bern,BE,Maschinenindustrie,1'180,1.259
+153,Agrola,Winterthur,ZH,Mineralölhandel,1'171,1.249
+154,Schweiter Technologies,Steinhausen ZG,ZG,Maschinenindustrie,1'160,1.237
+155,Swiss Automotive Group,Cham,ZG,Grosshandel (Fahrzeugbranche),1'150,1.227
+156,IKEA,Spreitenbach,AG,Möbel/Inneneinrichtung,1'146,1.223
+157,Forbo Holding,Baar,ZG,Teppiche/Bodenbeläge,1'118,1.193
+158,Hero,Lenzburg,AG,Nahrungsmittel,1'118,1.193
+159,Tamoil,Collombey,VS,Mineralölhandel,1'116,1.191
+160,Pilatus Flugzeugwerke,Stans,NW,Maschinenindustrie,1'116,1.191
+161,BLS,Bern,BE,Bahnen/Öffentlicher Verkehr,1'113,1.187
+162,UPC Schweiz,Wallisellen,ZH,Telecom,1'110,1.184
+163,Energiedienst Holding,Laufenburg,AG,Energieversorgung/-verteilung,1'110,1.184
+164,Audemars Piguet,Le Brassus,VD,Uhrenindustrie,1'100,1.173
+165,Interdiscount,Jegenstorf,ZH,Multimedia/Fachmärkte,1'089,1.162
+166,Selecta,Kirchberg,BE,Gastronomie/Catering,1'081,1.153
+167,Ronal Group,Härkingen,SO,Autozulieferer,1'070,1.141
+168,Dätwyler Holding,Altdorf,UR,Mischkonzern,1'069,1.140
+169,Chocolat Frey,Buchs AG,AG,Schokoladeindustrie,1'050,1.120
+170,Hipp Holding,Sachseln,OW,Nahrungsmittel,1'050,1.120
+171,Samsung Electric (Schweiz),Zürich,ZH,Computer/Informatik,1'050,1.120
+172,SR Technics Switzerland,Kloten,ZH,Dienstleistungen,1'050,1.120
+173,SAP (Schweiz),Biel,BE,Computer/Informatik,1'039,1.108
+174,Würth-Gruppe,Chur,GR,Befestigungstechnik,1'034,1.103
+175,Elektrizitätswerk der Stadt Zürich,Zürich,ZH,Energieversorgung/-verteilung,1'031,1.100
+176,Accenture,Zürich,ZH,Computer/Informatik,1'030,1.099
+177,Competec,Mägenwil,AG,Online Handel,1'026,1.095
+178,Swiss Household Services,Oberbüren,SG,Multimedia/Fachmärkte,1'019,1.087
+179,Salt Mobile,Renens,VD,Telecom,1'011,1.079
+180,Spar Holding,St. Gallen,SG,Detailhandel,1'004,1.071
+181,Bucherer,Luzern,LU,Detailhandel,1'000,1.067
+182,Coca-Cola HBC Schweiz,Brüttisellen,ZH,Getränke/Brauereien/Spirituosen,1'000,1.067
+183,Tech Data (Schweiz),Rotkreuz,ZG,Grosshandel (Elektronik),1'000,1.067
+184,Cisco Systems (Switzerland) GmbH,Wallisellen,ZH,Computer/Informatik,990,1.056
+185,BT Switzerland,Wallisellen,ZH,Computer/Informatik,982,1.048
+186,Debrunner Koenig Holding,St. Gallen,SG,Metall-/Stahlhandel,981,1.047
+187,Ringier,Zofingen,AG,Graphisches Gewerbe/Verlage,954,1.018
+188,Tamedia,Zürich,ZH,Graphisches Gewerbe/Verlage,936,999
+189,Luzerner Kantonsspital,Luzern,LU,Gesundheitswesen,933,995
+190,CSC Switzerland GmbH,Dübendorf,ZH,Computer/Informatik,932,994
+191,Planzer Holding,Dietikon,ZH,Gütertransporte/Terminals,924,986
+192,Kantonsspital St. Gallen,St. Gallen,SG,Gesundheitswesen,908,969
+193,PricewaterhouseCoopers,Zürich,ZH,Wirtschaftsprüfung,905,965
+194,Services industriels de Genève,Le Lignon,GE,Energieversorgung/-verteilung,903,963
+195,Bertschi,Dürrenäsch,AG,Gütertransporte/Terminals,900,960
+196,Colosseum Dental Group,Zürich,ZH,Gesundheitswesen,900,960
+197,Feldschlösschen Getränke,Rheinfelden,AG,Getränke/Brauereien/Spirituosen,900,960
+198,Fracht AG,Basel,BS,Logistik/Spedition,900,960
+199,Jungbunzlauer Suisse,Basel,BS,Biologische Stoffe,900,960
+200,MIR Trade,Herisau,AR,Grosshandel (Non Food),896,956
+201,EMC Computer Systems,Zürich,ZH,Computer/Informatik,891,951
+202,SBB Cargo,Olten,SO,Gütertransporte/Terminals,889,948
+203,Unilever Schweiz,Thayngen,SH,Nahrungsmittel,869,927
+204,Azienda Elettrica Ticinese,Monte Carasso,TI,Energieversorgung/-verteilung,867,925
+205,Model Holding,Weinfelden,TG,Papier-/Kartonindustrie,859,916
+206,Tecan Group,Männedorf,ZH,Medizinaltechnik,855,912
+207,Ammann Group Holding,Bern,BE,Grosshandel (Fahrzeugbranche),850,907
+208,Jowa,Volketswil,ZH,Nahrungsmittel,850,907
+209,Siegfried Holding,Zofingen,AG,Chemie/Pharma,845,901
+210,Otto’s,Sursee,LU,Detailhandel,842,898
+211,Primeo Energie-Gruppe,Münchenstein,BL,Energieversorgung/-verteilung,834,890
+212,Temenos Group,Genf,GE,Computer/Informatik,832,888
+213,Swisslog Holding,Buchs,AG,Förder- und Lagertechnik,832,888
+214,Losinger Marazzi,Bern,BE,Immobilien/GU/Dienstleistungen,830,885
+215,Metall Zug,Zug,ZG,Elektroapparate/Haushaltgeräte,826,881
+216,Centralschweizerische Kraftwerke,Luzern,LU,Energieversorgung/-verteilung,820,875
+217,Bossard Holding,Zug,ZG,Befestigungstechnik,813,867
+218,Marti Holding,Moosseedorf,BE,Bauunternehmen,810,864
+219,PostAuto Schweiz,Bern,BE,Bahnen/Öffentlicher Verkehr,809,863
+220,Energy Financing Team,St. Gallen,SG,Energieversorgung/-verteilung,803,857
+221,Frutiger Unternehmungen,Bern,BE,Bauunternehmen,802,856
+222,Bystronic Laser,Niederönz,BE,Maschinenindustrie,801,854
+223,Scott Corporation,Givisiez,FR,Sportartikel/-bekleidung,800,853
+224,Tissot,Le Locle,NE,Uhrenindustrie,800,853
+225,HG Commerciale,Zürich,ZH,Bauzulieferer/Bauelemente,800,853
+226,Oracle Software (Schweiz),Dättwil,AG,Computer/Informatik,795,848
+227,Swiss Prime Site,Olten,SO,Immobilien/GU/Dienstleistungen,793,846
+228,Industrielle Werke Basel,Basel,BS,Energieversorgung/-verteilung,772,824
+229,Spital Wallis,Sion,VS,Gesundheitswesen,761,812
+230,M + R Spedag Group,Muttenz,BL,Logistik/Spedition,760,811
+231,ISS Schweiz,Zürich,ZH,Facility Management,759,810
+232,Groupe E,Granges-Paccot,FR,Energieversorgung/-verteilung,738,787
+233,Huber+Suhner,Herisau,AR,Elektronik/Elektrotechnik,738,787
+234,Phoenix Mecano,Stein am Rhein,SH,Elektronik/Elektrotechnik,736,785
+235,Aevis Holding,Freiburg,FR,Gesundheitswesen,733,782
+236,Hotelplan Group,Glattbrugg,ZH,Reiseunternehmen/Tourismus,732,781
+237,Ente Ospedaliero Cantonale (EOC),Bellinzona,TI,Gesundheitswesen,725,773
+238,Kantonsspital Aarau,Aarau,AG,Gesundheitswesen,722,770
+239,Migrolino,Suhr,AG,Detailhandel,716,764
+240,Walo Bertschinger,Dietikon,ZH,Bauunternehmen,701,748
+241,Elektrizitätswerke des Kantons Zürich,Zürich,ZH,Energieversorgung/-verteilung,701,748
+242,Habasit,Reinach,BL,Förder- und Lagertechnik,700,747
+243,IBSA Institut Biochimique,Massagno,TI,Chemie/Pharma,700,747
+244,Ospelt Food,Sargans,SG,Fleischverarbeitung,700,747
+245,Kudelski,Cheseaux-sur-Lausanne,VD,Unterhaltungselektronik,696,742
+246,EDAG Engineering Group,Arbon,TG,Ingenieurunternehmen,696,742
+247,Bettermann,Wolfenschiessen,NW,Elektronik/Elektrotechnik,695,741
+248,Rational International,Heerbrugg,SG,Elektroapparate/Haushaltgeräte,695,741
+249,Coop Bau+Hobby,Basel,BS,Detailhandel,694,740
+250,Media Markt Schweiz,Dietikon,ZH,Detailhandel,694,740
+251,Vinci Energies Schweiz,Zürich,ZH,Haustechnik/Gebäudeautomation,693,739
+252,VAT Group,Haag,SG,Maschinenindustrie,692,738
+253,Infinigate Holding,Risch-Rotkreuz,ZG,Computer/Informatik,689,735
+254,Galliker Transport,Altishofen,LU,Gütertransporte/Terminals,680,725
+255,Egon Zehnder International,Zürich,ZH,Unternehmensberatung,678,723
+256,Robert Bosch Schweiz,Zuchwil,SO,Grosshandel (Elektronik),678,723
+257,Vetropack Holding,St-Prex,VD,Verpackung,663,707
+258,Belimo Holding,Hinwil,ZH,Haustechnik/Gebäudeautomation,661,705
+259,Zehnder Group,Gränichen,AG,Haustechnik/Gebäudeautomation,661,705
+260,Keytrade,Thalwil,ZH,Welt-/Rohstoffhandel,660,704
+261,Burckhardt Compression,Winterthur,ZH,Maschinenindustrie,659,703
+262,Montana Aerospace,Reinach,AG,Flugzeugteile,657,701
+263,Hamilton Bonaduz,Bonaduz,GR,Medizinaltechnik,650,693
+264,Nobel Biocare Services,Kloten,ZH,Medizinaltechnik,650,693
+265,Sabag Holding,Biel,BE,Bauzulieferer/Bauelemente,650,693
+266,Spaeter,Basel,BS,Metall-/Stahlhandel,650,693
+267,Renault Suisse,Urdorf,ZH,Automobilhandel/-import,645,688
+268,Ivoclar Vivadent,Schaan,,Medizinaltechnik,640,683
+269,Magazine zum Globus,Spreitenbach,AG,Detailhandel,640,683
+270,A.H. Meyer & Cie,Zürich,ZH,Mineralölhandel,633,675
+271,Flughafen Zürich,Kloten,ZH,Luftverkehr,624,666
+272,Eugster/Frismag,Amriswil,TG,Elektroapparate/Haushaltgeräte,620,661
+273,Avaloq Evolution,Zürich,ZH,Computer/Informatik,610,651
+274,Medela Holding,Baar,ZG,Medizinaltechnik,610,651
+275,Estavayer Lait,Estavayer-le-Lac,FR,Nahrungsmittel,605,645
+276,Orior,Zürich,ZH,Fleischverarbeitung,600,640
+277,Halter AG,Zürich,ZH,Bauunternehmen,600,640
+278,International Watch Company,Schaffhausen,SH,Uhrenindustrie,600,640
+279,Jumbo-Markt,Dietlikon,ZH,Detailhandel,600,640
+280,Hupac,Chiasso,TI,Gütertransporte/Terminals,597,637
+281,Swissgrid,Laufenburg,AG,Energieversorgung/-verteilung,588,627
+282,Energie 360°,Zürich,ZH,Energieversorgung/-verteilung,582,621
+283,Schneider Electric (Schweiz),Ittigen,BE,Computer/Informatik,580,619
+284,TAG Heuer,La Chaux-de-Fonds,NE,Uhrenindustrie,580,619
+285,Jura Elektroapparate,Niederbuchsiten,SO,Elektroapparate/Haushaltgeräte,580,619
+286,Solothurner Spitäler,Solothurn,SO,Gesundheitswesen,579,618
+287,Gurit Holding,Wattwil,SG,Mischkonzern,579,618
+288,Rieter Holding,Winterthur,ZH,Maschinenindustrie,573,611
+289,V-Zug,Zug,ZG,Elektroapparate/haushaltgeräte,569,607
+290,Romande Energie,Morges,VD,Energieversorgung/-verteilung,569,607
+291,Kantonsspital Thurgau,Frauenfeld,TG,Gesundheitswesen,566,604
+292,Allreal Holding,Baar,ZG,Immobilien/GU/Dienstleistungen,564,602
+293,Sanitas Troesch,Bern,BE,Bauzulieferer/Bauelemente,559,596
+294,Maxon Motor,Sachseln,OW,Elektronik/Elektrotechnik,554,591
+295,Pfister Arco Holding,Suhr,AG,Möbel/Inneneinrichtung,550,587
+296,Gaznat,Vevey,VD,Energieversorgung/-verteilung,545,581
+297,Ernst & Young,Basel,BS,Wirtschaftsprüfung,540,576
+298,Cargo24,Zürich,ZH,Gütertransporte/Terminals,539,575
+299,Kantonsspital Winterthur,Winterthur,ZH,Gesundheitswesen,535,571
+300,Sauter Building Control,Basel,BS,Haustechnik/Gebäudeautomation,535,571
+301,Pistor Holding,Rothenburg,LU,Grosshandel (Food),535,571
+302,Elektro-Material AG,Zürich,ZH,Grosshandel (Elektronik),533,569
+303,Tertianum Management,Dübendorf,ZH,Dienstleistungen,533,569
+304,LV-St.Gallen,St. Gallen,SG,Grosshandel (Food),531,566
+305,Interroll Holding,S. Antonino,TI,Förder- und Lagertechnik,531,566
+306,Anicom,Bern,BE,Grosshandel (Non Food),530,565
+307,Engie Services,Zürich,ZH,Facility Management,520,555
+308,Mibelle,Buchs AG,AG,Kosmetik/Körperpflege,520,555
+309,Kantonsspital Freiburg,Freiburg,FR,Gesundheitswesen,518,553
+310,Kabelwerke Brugg,Brugg AG,AG,Draht/Kabel/Gummi/Maschinen,515,549
+311,Huawei Technologies Switzerland,Liebefeld,BE,Telecom,512,546
+312,Verkehrsbetriebe Zürich,Zürich,ZH,Bahnen/Öffentlicher Verkehr,508,542
+313,Deloitte,Zürich,ZH,Unternehmensberatung,506,540
+314,Randstad (Schweiz),Zürich,ZH,Personalvermittlung,505,539
+315,Hublot,Genf,GE,Uhrenindustrie,500,533
+316,Müller Martini,Zofingen,AG,Maschinenindustrie,500,533
+317,SV Group,Dübendorf,ZH,Gastronomie/Catering,500,533
+318,Burkhalter Holding,Zürich,ZH,Gebäudetechnik,1'127,1.392
+319,Feintool International,Lyss,BE,Metallverarbeitung,492,525
+320,McDonalds Suisse,Crissier,VD,Gastronomie/Catering,490,523
+321,Meier Tobler,Nebikon,LU,Haustechnik/Gebäudeautomation,487,520
+322,Rhomberg Sersa Rail,Zürich,ZH,Bahntechnik/Geleisebau,480,512
+323,Breitling,Grenchen,SO,Uhrenindustrie,480,512
+324,Metrohm,Herisau,AR,Mischkonzern,480,512
+325,Conforama Suisse,Ecublens,VD,Möbel/Inneneinrichtung,477,509
+326,Kestenholz-Gruppe,Pratteln,BL,Automobilhandel/-import,476,508
+327,Cremo,Villars-sur-Glâne,FR,Nahrungsmittel,475,507
+328,Aebi Schmidt Holding,Frauenfeld,TG,Fahrzeug-/Karosseriebau,466,497
+329,Energie Wasser Bern,Bern,BE,Energieversorgung/-verteilung,466,497
+330,Intel Semiconductor,Zürich,ZH,Computer/Informatik,456,486
+331,Weleda,Arlesheim,BL,Chemie/Pharma,454,484
+332,Orange Business Service,Zürich,ZH,Computer/Informatik,452,482
+333,Symantec Switzerland,Glattbrugg,ZH,Computer/Informatik,452,482
+334,L.U. Chopard & Cie,Meyrin,GE,Uhrenindustrie,450,480
+335,Haco,Muri bei Bern,BE,Nahrungsmittel,450,480
+336,CPH Chemie + Papier,Perlen,LU,Papier-/Kartonindustrie,445,475
+337,KPMG,Zürich,ZH,Wirtschaftsprüfung,443,473
+338,Acino Holding,Zürich,ZH,Chemie/Pharma,440,469
+339,Ochsner Sport,Dietikon,ZH,Schuhproduktion/-handel,440,469
+340,H&M Hennes & Mauritz,Zürich,ZH,Detailhandel (Bekleidung),440,469
+341,Transports publics genevois,Lancy,GE,Bahnen/Öffentlicher Verkehr,434,463
+342,Kantonsspital Baselland,Liestal,BL,Gesundheitswesen,434,463
+343,Behr Bircher Cellpack BBC,Villmergen,AG,Mischkonzern,430,459
+344,Hans Oetiker Holding,Horgen,ZH,Automobilhandel/-import,430,459
+345,Jaeger-LeCoultre,Le Sentier,VD,Uhrenindustrie,430,459
+346,GVFI International,Basel,BS,Grosshandel (Food),425,453
+347,Ingram Micro,Cham,ZG,Computer/Informatik,425,453
+348,Kernkraftwerk Leibstadt,Leibstadt,AG,Energieversorgung/-verteilung,424,452
+349,World Steel Trade,Genève,GE,Metall-/Stahlhandel,424,452
+350,Oettinger Davidoff,Basel,BS,Tabakindustrie/-handel,423,451
+351,Gasverbund Mittelland,Arlesheim,BL,Energieversorgung/-verteilung,423,451
+352,Bechtle Holding Schweiz,Rotkreuz,ZG,Computer/Informatik,422,450
+353,Hoval Gruppe,Vaduz,,Haustechnik/Gebäudeautomation,421,449
+354,Bulgari Horlogerie,Neuenburg,NE,Uhrenindustrie,420,448
+355,Lenovo (Schweiz) GmbH,Zürich,ZH,Computer/Informatik,420,448
+356,CH Media,Aarau,AG,Graphisches Gewerbe/Verlage,418,446
+357,Ericsson,Bern,BE,Computer/Informatik,416,444
+358,Highlight Communications,Pratteln,BL,Graphisches Gewerbe/Verlage,415,443
+359,Lindenhofgruppe,Bern,BE,Gesundheitswesen,414,442
+360,Kardex,Zürich,ZH,Förder- und Lagertechnik,413,441
+361,Rhenus Alpina,Basel,BS,Gütertransporte/Terminals,410,437
+362,Ypsomed Holding,Burgdorf,BE,Medizinaltechnik,404,431
+363,Bachem Holding,Bubendorf,BL,Chemie/Pharma,402,429
+364,Cognizant Technology Solutions,Zug,ZG,Computer/Informatik,401,428
+365,Baumer Holding,Frauenfeld,TG,Elektronik/Elektrotechnik,400,427
+366,Vacheron Constantin,Genf,GE,Uhrenindustrie,400,427
+367,Kantonsspital Baden,Baden,AG,Gesundheitswesen,398,425
+368,Asstra - Associated Traffic,Zürich,ZH,Logistik/Spedition,396,422
+369,B. Braun Medical,Sempach,LU,Medizinaltechnik,396,422
+370,Comet Holding,Flamatt,FR,Medizinaltechnik,396,422
+371,T-Systems Schweiz,Zollikofen,BE,Computer/Informatik,392,418
+372,Sipro Stahl Holding,Geroldswil,ZH,Metall-/Stahlhandel,388,414
+373,Orascom Development Holding,Altdorf,UR,Hotellerie,386,412
+374,Aduno Holding,Zürich,ZH,Dienstleistungen,385,411
+375,Medbase Gesundheitszentren,Zürich,ZH,Gesundheitswesen,382,408
+376,Erne Holding,Laufenburg,AG,Bauzulieferer/Bauelemente,380,405
+377,Schneider Logistics Group,Basel,BS,Logistik/Spedition,376,401
+378,Inficon Holding,Bad Ragaz,SG,Elektronik/Elektrotechnik,373,398
+379,ESA-Einkaufsorganisation,Burgdorf,BE,Grosshandel (Fahrzeugbranche),369,394
+380,Kantonsspital Graubünden,Chur,GR,Gesundheitswesen,366,390
+381,Ricola Holding,Laufen,BL,Nahrungsmittel,365,389
+382,Kistler Instrumente,Winterthur,ZH,Mess- und Regeltechnik,361,385
+383,AEW Energie,Aarau,AG,Energieversorgung/-verteilung,354,378
+384,Kibag Holding,Zürich,ZH,Bauzulieferer/Bauelemente,350,373
+385,Mifroma,Ursy,FR,Nahrungsmittel,350,373
+386,TopPharm Genossenschaft,Münchenstein,BL,Drogerien/Parfümerien/Apotheken,350,373
+387,Rhätische Bahn (RhB),Chur,GR,Bahnen/Öffentlicher Verkehr,347,370
+388,C&A Mode,Baar,ZG,Detailhandel (Bekleidung),343,366
+389,Canon (Schweiz),Wallisellen,ZH,Computer/Informatik,342,365
+390,Wicor Holding,Rapperswil,SG,Mischkonzern,341,364
+391,Groupe Eldora,Rolle,VD,Gastronomie/Catering,340,363
+392,Jansen AG,Oberriet,SG,Metallverarbeitung,340,363
+393,Victorinox,Ibach,SZ,Mischkonzern,335,357
+394,Leonteq,Zürich,ZH,Computer/Informatik,335,357
+395,Microspot,Moosseedorf,BE,Online Handel,334,356
+396,u-blox Holding,Thalwil,ZH,Computer/Informatik,334,356
+397,Griesser Holding,Aadorf,TG,Bauzulieferer/Bauelemente,333,355
+398,Calida Holding,Oberkirch LU,LU,Bekleidungsindustrie,333,355
+399,Medacta International,Frauenfeld,TG,Medizinaltechnik,332,354
+400,Kernkraftwerk Gösgen-Däniken,Däniken,SO,Energieversorgung/-verteilung,331,353
+401,Hostettler-Gruppe,Sursee,LU,Grosshandel (Fahrzeugbranche),330,352
+402,VZ Holding,Zürich,ZH,Dienstleistungen,329,351
+403,Komax Holding,Dierikon,LU,Maschinenindustrie,328,350
+404,Mepha,Basel,BS,Grosshandel Chemie/Pharma,325,347
+405,Richard Mille,Les Breuleux,JU,Uhrenindustrie,320,341
+406,TopCC,Gossau,SG,Grosshandel (Food),317,338
+407,DB Schenker Schweiz,Zürich,ZH,Gütertransporte/Terminals,316,337
+408,St. Gallisch-Appenzellische Kraftwerke,St. Gallen,SG,Energieversorgung/-verteilung,315,336
+409,Adobe Systems (Schweiz),Zürich,ZH,Computer/Informatik,312,333
+410,Hälg Holding,St. Gallen,SG,Haustechnik/Gebäudeautomation,312,333
+411,Schätzle Holding,Luzern,LU,Mineralölhandel,309,330
+412,LEM Holding,Freiburg,FR,Elektronik/Elektrotechnik,308,329
+413,Hochdorf Holding,Hochdorf,LU,Nahrungsmittel,306,326
+414,Kinderspital Zürich,Zürich,ZH,Gesundheitswesen,303,323
+415,Poenina,Zürich,ZH,Haustechnik/Gebäudeautomation,302,322
+416,Alfred Müller AG,Baar,ZG,Immobilien/GU/Dienstleistungen,300,320
+417,Starrag Group Holding,Rorschacherberg,SG,Maschinenindustrie,297,317
+418,PSP Swiss Property,Zug,ZG,Immobilien/GU/Dienstleistungen,296,316
+419,Scania Schweiz,Kloten,ZH,Automobilhandel/-import,290,309
+420,Offix Holding,Freudwil,ZH,Computer/Informatik,289,308
+421,Infosys Consulting Holding,Kloten,ZH,Computer/Informatik,288,307
+422,TX Markets,Zürich,ZH,Computer/Informatik,288,307
+423,Tata Consultancy Services Switzerland,Zürich,ZH,Computer/Informatik,287,306
+424,Müller Schweiz,Oberentfelden,AG,Drogerien/Parfümerien/Apotheken,285,304
+425,Reinhard Fromm Holding,Cham,ZG,Verpackung,283,302
+426,Thermoplan,Weggis,LU,Elektroapparate/Haushaltgeräte,281,300
+427,Ascom Holding,Baar,ZG,Elektronik/Elektrotechnik,281,300
+428,Skyguide,Genf,GE,Dienstleistungen,281,300
+429,AMAC Aerospace Switzerland,Basel,BS,Dienstleistungen,280,299
+430,Loomis Schweiz,Kloten,ZH,Gütertransporte/Terminals,280,299
+431,BLS Cargo,Bern,BE,Gütertransporte/Terminals,277,295
+432,EWL Energie Wasser Luzern Holding,Luzern,LU,Energieversorgung/-verteilung,276,294
+433,Tarchini FoxTown,Manno,TI,Detailhandel,275,293
+434,Montres Breguet,L'Abbaye,VD,Uhrenindustrie,270,288
+435,Saviva,Regensdorf,ZH,Grosshandel (Food),268,286
+436,Reishauer,Wallisellen,ZH,Maschinenindustrie,266,284
+437,Migros Online,Zürich,ZH,Online Handel,266,284
+438,Quickline,Nidau,BE,Computer/Informatik,265,283
+439,Mobimo Holding,Luzern,LU,Immobilien/GU/Dienstleistungen,265,283
+440,Schweizer Zucker,Frauenfeld,TG,Nahrungsmittel,263,281
+441,Zweifel Chips + Snacks,Spreitenbach,AG,Nahrungsmittel,263,281
+442,APG SGA,Genf,GE,Aussenwerbung,262,279
+443,Bauwerk Group,St. Margrethen,SG,Bauzulieferer/Bauelemente,261,278
+444,Schweizer Paraplegiker-Stiftung,Nottwil,LU,Gesundheitswesen,261,278
+445,Festina - Candino Watch,Herbetswil,SO,Uhrenindustrie,260,277
+446,DSS International,Paradiso,TI,Metall-/Stahlhandel,260,277
+447,Schurter Holding,Luzern,LU,Elektronik/Elektrotechnik,259,276
+448,Traveco Transporte,Winterthur,ZH,Gütertransporte/Terminals,258,275
+449,Mikron Holding,Biel,BE,Maschinenindustrie,257,274
+450,Aluflexpack,Reinach,AG,Verpackung,256,273
+451,Genossenschaft Zentralschweizer Milchproduzenten ZMP,Luzern,LU,Nahrungsmittel,256,273
+452,Wasserwerke Zug,Zug,ZG,Energieversorgung/-verteilung,255,272
+453,Sensirion Holding,Stäfa,ZH,Mess- und Regeltechnik,254,271
+454,ITRIS,Spreitenbach,AG,Computer/Informatik,251,268
+455,Georg Utz Holding,Bremgarten,AG,Kunststofftechnologie,251,268
+456,Blancpain,Le Brassus,VD,Uhrenindustrie,250,267
+457,Induni,Petit-Lancy,GE,Bauunternehmen,250,267
+458,Schenker Storen,Schönenwerd,SO,Bauzulieferer/Bauelemente,250,267
+458,Rieker Holding,Thayngen,SH,Schuhproduktion/-handel,250,267
+459,Vebego Schweiz Holding,Zürich,ZH,Facility Management,250,267
+461,Basler Verkehrs-Betriebe,Basel,BS,Bahnen/Öffentlicher Verkehr,250,267
+462,Reichle & De-Massari,Wetzikon,ZH,Elektronik/Elektrotechnik,250,267
+463,Coltene Holding,Altstätten,SG,Medizinaltechnik,248,265
+464,Bernina International,Steckborn,TG,Elektroapparate/Haushaltgeräte,244,260
+465,BeautyAlliance Schweiz,Pfäffikon SZ,SZ,Drogerien/Parfümerien/Apotheken,240,256
+466,Camion-Transport,Wil,SG,Gütertransporte/Terminals,240,256
+467,Sigvaris Group,Winterthur,ZH,Medizinaltechnik,240,256
+468,Veritas (Schweiz) GmbH,Kloten,ZH,Computer/Informatik,240,256
+469,Stadtwerk Winterthur,Winterthur,ZH,Energieversorgung/-verteilung,239,255
+470,Interhome HHD,Opfikon,ZH,Reiseunternehmen/Tourismus,237,253
+471,AZ Medien,Aarau,AG,Graphisches Gewerbe/Verlage,233,249
+472,BDO AG,Zürich,ZH,Wirtschaftsprüfung,233,249
+473,Coop Vitality,Bern,BE,Kosmetik/Körperpflege,233,249
+474,Coop@home,Spreitenbach,AG,Online Handel,232,247
+475,Visilab,Meyrin,GE,Optiker,232,247
+476,Holdigaz,Vevey,VD,Energieversorgung/-verteilung,231,246
+477,Rado Uhren,Lengnau,BE,Uhrenindustrie,230,245
+478,EBL (Genossenschaft Elektra Baselland),Liestal,BL,Energieversorgung/-verteilung,230,245
+479,Variosystems,Steinach,SG,Elektronik/Elektrotechnik,228,243
+480,AWS (Switzerland),Zürich,ZH,Computer/Informatik,225,240
+481,Centravo Holding,Zürich,ZH,Fleischverarbeitung,225,240
+482,Top Tip/Lumimart,Oberentfelden,AG,Möbel/Inneneinrichtung,222,237
+483,ERNI International,Brüttisellen,ZH,Elektronik/Elektrotechnik,222,237
+484,Neue Zürcher Zeitung,Zürich,ZH,Graphisches Gewerbe/Verlage,221,236
+485,Mammut Sports Group,Seon,AG,Sportartikel/-bekleidung,220,235
+486,Florin AG,Muttenz,BL,Grosshandel (Food),220,235
+487,Kirchhofer AG,Interlaken,BE,Detailhandel (Uhren/Schmuck),220,235
+488,Villiger Söhne Holding,Pfeffikon,LU,Tabakindustrie/-handel,220,235
+489,Dottikon ES Holding,Dottikon,AG,Chemie/Pharma,219,234
+490,Orell Füssli Holding,Zürich,ZH,Graphisches Gewerbe/Verlage,219,234
+491,Stadtwerke St. Gallen,St. Gallen,SG,Energieversorgung/-verteilung,218,233
+492,Trisa Holding,Triengen,LU,Kosmetik/Körperpflege,215,229
+493,Interroute,Meyrin,GE,Computer/Informatik,215,229
+494,Schmid Bauunternehmung,Ebikon,LU,Bauunternehmen,215,229
+495,Cicor,Zürich,ZH,Computer/Informatik,215,229
+496,Peach Property Group,Zürich,ZH,Immobilien/GU/Dienstleistungen,214,228
+497,Spitäler Schaffhausen,Schaffhausen,SH,Gesundheitswesen,213,227
+498,Von Roll Holding,Breitenbach,SO,Maschinenindustrie,212,226
+499,Acer (Switzerland),Dietikon,ZH,Computer/Informatik,212,226
+500,On Running Shoes,Zürich,ZH,Sportartikel/-bekleidung,210,224
