@@ -1,0 +1,978 @@
+[
+  {
+    "title": "System Manager",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-manager/6bdb6243-352b-49b3-bf0c-c2b866b13054"
+  },
+  {
+    "title": "Quality Manager",
+    "experience": "Professionisti esperti",
+    "locations": "Lodrino",
+    "country": "Svizzera",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/quality-manager/b903caf4-2ce7-4380-a73e-fc02f1fcaf34"
+  },
+  {
+    "title": "Facility Manager Technics",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/facility-manager-technics/9f946187-f332-4238-b605-785968ffe977"
+  },
+  {
+    "title": "Logistiker/in EFZ",
+    "experience": "Berufserfahrene",
+    "locations": "Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/logistiker-in-efz/08cced54-1cdd-4ac9-9976-07c11bccef0c"
+  },
+  {
+    "title": "Senior Network Software Development Engineer Linux / C++",
+    "experience": "Experienced professionals",
+    "locations": "Zürich Seebach",
+    "country": "Switzerland",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-network-software-development-engineer-linux-c++/5c4fa24f-5e21-4971-a23a-e1dada26c6fe"
+  },
+  {
+    "title": "Head of Advisory & Governance C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/head-of-advisory-governance-c5i/290a88cf-33a6-4cac-b2a6-aaac389744b0"
+  },
+  {
+    "title": "People Development Manager",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "60–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/people-development-manager/e77a3124-e00f-43d6-a021-6798e055315e"
+  },
+  {
+    "title": "AugenoptikerIn",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "60–80%",
+    "url": "https://jobs.ruag.ch/offene-stellen/augenoptikerin/1147e295-1028-4f60-8ba1-7f9c045af520"
+  },
+  {
+    "title": "Senior Customer Success and Delivery Manager",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-customer-success-and-delivery-manager/61c31e7c-6e24-4b7e-bff3-419fdd4946d2"
+  },
+  {
+    "title": "WerkstudentIn Cyber Security Consultant",
+    "experience": "Studierende",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "40–60%",
+    "url": "https://jobs.ruag.ch/offene-stellen/werkstudentin-cyber-security-consultant/1713bed7-912c-4182-ac68-533f67480ed2"
+  },
+  {
+    "title": "ICT Test-Engineer",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "60–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/ict-test-engineer/4b79d84d-a0e1-43ab-ad16-64dc8d66e8c8"
+  },
+  {
+    "title": "Junior Cyber Security SpecialistIn / Consultant",
+    "experience": "Berufseinsteigende",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "60–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/junior-cyber-security-specialistin-consultant/90120776-fcab-4974-bbc6-16b24cb3f28a"
+  },
+  {
+    "title": "Technician Avionics Helicopters",
+    "experience": "Experienced professionals",
+    "locations": "Emmen",
+    "country": "Switzerland",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/technician-avionics-helicopters/f9795df5-04d9-4bb0-bd95-217d4fec5a18"
+  },
+  {
+    "title": "AvionikerIn Helikopter",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/avionikerin-helikopter/053f45f1-afbf-4c84-a7b9-e52ac2667eec"
+  },
+  {
+    "title": "Professional Test Engineer EMV",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/professional-test-engineer-emv/01862330-88a1-4493-b908-7ae3a854b400"
+  },
+  {
+    "title": "Logistiker/in EFZ",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/logistiker-in-efz/71938969-f8b8-4621-a553-28267df4aa41"
+  },
+  {
+    "title": "Facility Coordinator C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/facility-coordinator-c5i/13344103-ffb1-476a-8bbc-295d3b0c6da4"
+  },
+  {
+    "title": "System Manager",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-manager/aba63352-e928-413e-9d8f-8efc5fe8477d"
+  },
+  {
+    "title": "Finance Business Partner",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/finance-business-partner/9c5ae11f-7a3b-4a72-97a3-cce6b5ab2b65"
+  },
+  {
+    "title": "Technician Hydraulics",
+    "experience": "Berufseinsteigende",
+    "locations": "Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/technician-hydraulics/06a2684b-c697-4c57-83bf-1ee29a8105d8"
+  },
+  {
+    "title": "DevOps Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/devops-engineer-c5i/d300bae4-31be-456a-b2be-c6c9a473d259"
+  },
+  {
+    "title": "Senior Lead Project House C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-lead-project-house-c5i/7d11c769-0b56-41fb-88d2-a30f5b6163cf"
+  },
+  {
+    "title": "Senior Key Account Manager C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-key-account-manager-c5i/cf6a9be2-3303-4a35-afaf-5ed6d3261817"
+  },
+  {
+    "title": "Senior System Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-system-engineer-c5i/120c76e8-5750-4ad6-bf10-7e020250055a"
+  },
+  {
+    "title": "ICT System Engineer Network",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Emmen, Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/ict-system-engineer-network/a24387e9-ba27-49dc-975f-ebacd1f187c7"
+  },
+  {
+    "title": "System Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-engineer-c5i/d1ee503e-555b-41ea-a1d9-1e8e649b47e7"
+  },
+  {
+    "title": "Platform Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/platform-engineer-c5i/a746309e-6924-4b2e-8113-21d209ac8885"
+  },
+  {
+    "title": "DevOps Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/devops-engineer-c5i/588073f0-f911-43ba-8d29-8812fdc01046"
+  },
+  {
+    "title": "Senior Lead C5I-Campus & SNFW-Lab",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-lead-c5i-campus-snfw-lab/f7db3735-5230-4efe-b9a3-076ac0c7558e"
+  },
+  {
+    "title": "Senior Lead C5I-Campus",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-lead-c5i-campus/e3f9b4c7-2a29-431e-9a26-1aef2b43996a"
+  },
+  {
+    "title": "Project Manager C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/project-manager-c5i/a33a123b-8efc-46a9-96e5-7438442df1ec"
+  },
+  {
+    "title": "Administrative Coordinator C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/administrative-coordinator-c5i/6ee9a5dd-8048-4dce-8b1a-df5203f144f2"
+  },
+  {
+    "title": "Operations Consultant C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/operations-consultant-c5i/35a8293f-dd56-4661-8208-32b766ff1b04"
+  },
+  {
+    "title": "Lehrstelle als Logistiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Stans",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-logistiker-in-efz-2026/25088b6b-c5cb-4a02-9572-8ca8f161bf98"
+  },
+  {
+    "title": "Business Analyst",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/business-analyst/858da35f-5f1e-4574-b816-e3eb5ab8eac3"
+  },
+  {
+    "title": "Senior Application Manager PLM/PDM",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-application-manager-plm-pdm/0d413edc-b238-4d8c-b74e-dea64575c2da"
+  },
+  {
+    "title": "Wareneingangs- und QualitätsprüferIn",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/wareneingangs-und-qualitaetsprueferin/43d524d6-c986-45b6-b22a-ede79742da55"
+  },
+  {
+    "title": "Strategic Procurement Bauleistungen, Generalplaner & Generalunternehmer",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/strategic-procurement-bauleistungen-generalplaner-generalunternehmer/5f1ef89d-abad-4dda-810e-79958f7e89c5"
+  },
+  {
+    "title": "Strategic Procurement Bauleistungen, Generalplaner & Generalunternehmer",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/strategic-procurement-bauleistungen-generalplaner-generalunternehmer/6ced519c-d65c-4600-b375-c47c055050f9"
+  },
+  {
+    "title": "MitarbeiterIn Schutzsysteme",
+    "experience": "Berufseinsteigende",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/mitarbeiterin-schutzsysteme/6e3fcd5b-b53b-4a7a-9795-d83add5dcace"
+  },
+  {
+    "title": "DevOps Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/devops-engineer-c5i/9d5d4c9e-a1a5-4895-88f0-ec25c946b9e1"
+  },
+  {
+    "title": "Sales Manager C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/sales-manager-c5i/90dc35a4-c760-4e1d-ad8b-75db0247c876"
+  },
+  {
+    "title": "Product Manager C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/product-manager-c5i/1ef9d9cc-b602-4cd0-8d38-f97c891c1650"
+  },
+  {
+    "title": "IT System Engineer Infrastructure",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Emmen, Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/it-system-engineer-infrastructure/368291e9-c5c9-441c-8016-1398bb2a4918"
+  },
+  {
+    "title": "Facility Manager Technics",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/facility-manager-technics/eb77b635-0820-4b52-8271-31d134ea2af5"
+  },
+  {
+    "title": "ICT System Administrator C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/ict-system-administrator-c5i/41444659-625a-4833-a84f-d4e65489f9ff"
+  },
+  {
+    "title": "IT System Engineer",
+    "experience": "Young professionals",
+    "locations": "Emmen",
+    "country": "Switzerland",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/it-system-engineer/e6a11ee5-f4e4-471b-985b-7571eba6ac85"
+  },
+  {
+    "title": "IT System Engineer",
+    "experience": "Berufseinsteigende",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/it-system-engineer/eaeca271-c0c4-4f59-b326-0db1e4cb4290"
+  },
+  {
+    "title": "ProjektleiterIn PbFM",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/projektleiterin-pbfm/ba99c998-44b0-4413-b5e9-70b162c5e0e4"
+  },
+  {
+    "title": "System Engineer C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-engineer-c5i/7e57ccc1-c028-42b2-9b2e-7e2128b30f58"
+  },
+  {
+    "title": "Data Architect Space C5I",
+    "experience": "Experienced professionals",
+    "locations": "Bern, Thun",
+    "country": "Switzerland",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/data-architect-space-c5i/1626252f-1925-437f-b9d5-4aa1c0c9d0ad"
+  },
+  {
+    "title": "SAP ABAP Developer",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Emmen, Zürich Seebach, Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/sap-abap-developer/0e5d3065-0897-4ef3-b46b-72f7d43c71b9"
+  },
+  {
+    "title": "LogistikerIn Warenein-& Ausgang, Lager, interner Transport",
+    "experience": "Berufserfahrene",
+    "locations": "Stans",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/logistikerin-warenein-ausgang-lager-interner-transport/b27a3d03-a946-4d09-8b63-d4f760f9b608"
+  },
+  {
+    "title": "Learning Designer",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "60–80%",
+    "url": "https://jobs.ruag.ch/offene-stellen/learning-designer/23e2109c-6c6f-4a75-8576-84b767da6340"
+  },
+  {
+    "title": "Electronicien ou Technicien",
+    "experience": null,
+    "locations": "Jeunes professionnel(es)s Aigle",
+    "country": "Suisse",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/electronicien-ou-technicien/0c5fb01b-6996-460a-90a9-4db4d3a4df53"
+  },
+  {
+    "title": "Flugzeugmechaniker - Technician Mechanical F/A-18",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/flugzeugmechaniker-technician-mechanical-f-a-18/928524b8-bd74-4798-a314-e20fbd1b49e5"
+  },
+  {
+    "title": "Specialist EOD",
+    "experience": "Berufserfahrene",
+    "locations": "Altdorf",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/specialist-eod/a383f275-cf48-4fe8-9621-6852b5252f7e"
+  },
+  {
+    "title": "HelikoptermechanikerIn / Technician Maintenance Helicopters",
+    "experience": "Berufserfahrene",
+    "locations": "Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/helikoptermechanikerin-technician-maintenance-helicopters/c6888e87-9c67-4d08-be8d-71a0bde8487b"
+  },
+  {
+    "title": "Professional IT System Engineer Infrastructure",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/professional-it-system-engineer-infrastructure/2aaabf5d-8349-4c30-b223-761e7e51debc"
+  },
+  {
+    "title": "ICT Supporter C5I",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/ict-supporter-c5i/1de2cbee-8dfe-480f-8456-ffc3de033414"
+  },
+  {
+    "title": "Senior IT System Engineer Infrastructure",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-it-system-engineer-infrastructure/dae24655-9585-423a-a398-168fc1019900"
+  },
+  {
+    "title": "System/Netzwerk- ArchitektIn",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Zürich Seebach",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-netzwerk-architektin/caced2af-5588-4846-9ace-b8480f770fc5"
+  },
+  {
+    "title": "Security-Architekt/-Engineer",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Zürich Seebach",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/security-architekt-engineer/64f6e0bb-c1b2-4035-811b-5dc2866f26cc"
+  },
+  {
+    "title": "Purchasing Manager & Material Dispatcher 80-100% (m/w/d/)",
+    "experience": "Berufserfahrene",
+    "locations": "Alpnach",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/purchasing-manager-material-dispatcher-m-w-d/73360c2d-f113-47ca-8c2b-c1fe1548ed70"
+  },
+  {
+    "title": "Order Manager Heli Global Business",
+    "experience": "Berufserfahrene",
+    "locations": "Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/order-manager-heli-global-business/3f8795e3-6dfe-4ae7-b5bd-40b18653e713"
+  },
+  {
+    "title": "ICT Quality Manager",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/ict-quality-manager/45d019e2-cd02-4401-b4d1-22f1ced5db68"
+  },
+  {
+    "title": "Helikopter-Komponenten MechanikerIn / Technician Mechanical Components",
+    "experience": "Berufserfahrene",
+    "locations": "Alpnach",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/helikopter-komponenten-mechanikerin-technician-mechanical-components/7291d647-c49b-4d09-9ea5-d2b51f066ef8"
+  },
+  {
+    "title": "Systemtechniker Aufklärungs-Systeme (SIGINT) inkl. Wettersysteme",
+    "experience": "Berufserfahrene",
+    "locations": "Wangen",
+    "country": "Deutschland",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/systemtechniker-aufklaerungs-systeme-sigint-inkl-wettersysteme/fa7675be-ae92-4f3f-bcc5-9dcd1916c2d0"
+  },
+  {
+    "title": "System IngenieurIn SIGINT Systeme",
+    "experience": "Berufserfahrene",
+    "locations": "Wangen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-ingenieurin-sigint-systeme/3b9ab3be-5d20-4535-b76d-2cfe7a8db26f"
+  },
+  {
+    "title": "Real Estate Asset Manager",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/real-estate-asset-manager/e11256b6-752d-46f1-8ea9-fabcf534930a"
+  },
+  {
+    "title": "ICT Architekt Infrastruktur",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Emmen, Zürich Seebach",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/ict-architekt-infrastruktur/50c02223-482f-439d-b112-9cb1b7180de9"
+  },
+  {
+    "title": "Head of AVOR/Planung",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/head-of-avor-planung/e721e268-63b4-4328-99e4-142a68d4c4dd"
+  },
+  {
+    "title": "Elektronikerin oder Elektroniker Surveillance System",
+    "experience": "Berufserfahrene",
+    "locations": "Wangen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/elektronikerin-oder-elektroniker-surveillance-system/504a398b-e8b0-4c7a-a43b-2cd085ee3cfa"
+  },
+  {
+    "title": "KonstrukteurIn / Mechanical Design Engineer",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/konstrukteurin-mechanical-design-engineer/010e12da-4766-4b21-adfc-e3ab0ded5548"
+  },
+  {
+    "title": "Lehrstelle als Informatiker/in EFZ Plattformentwicklung 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Bern",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-informatiker-in-efz-plattformentwicklung-2026/0fafda17-bd47-49d7-ab25-0552e64b1908"
+  },
+  {
+    "title": "Technische/r RedaktorIn",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/technische-r-redaktorin/3a382f1a-570d-4921-80c9-3f9db6df4cbe"
+  },
+  {
+    "title": "Lehrstelle als Fachmann/Fachfrau Betriebsunterhalt EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Altdorf",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-fachmann-fachfrau-betriebsunterhalt-efz-2026/4bfccf8a-3bfa-4332-91c8-fb40001d846c"
+  },
+  {
+    "title": "Lehrstelle als Physiklaborant/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-physiklaborant-in-efz-2026/e935d080-093a-4556-bd7e-713ae5a29324"
+  },
+  {
+    "title": "InstandhaltungsmechanikerIn Flugzeugkomponenten",
+    "experience": "Berufserfahrene",
+    "locations": "Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/instandhaltungsmechanikerin-flugzeugkomponenten/7b727c3b-d82a-490a-beaf-c9f47aef4ed0"
+  },
+  {
+    "title": "Technical Project Lead",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/technical-project-lead/04dbdbbd-feac-41a9-aa1a-486ff650cb67"
+  },
+  {
+    "title": "Berufsbildungsverantwortliche/r PolymechanikerIn EFZ & LeiterIn Ausbildungscenter",
+    "experience": "Berufserfahrene",
+    "locations": "Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/berufsbildungsverantwortliche-r-polymechanikerin-efz-leiterin-ausbildungscenter/75b6e146-5eaa-4f65-95a6-36e0e331b052"
+  },
+  {
+    "title": "Director Finance Business Partnering",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/director-finance-business-partnering/68810f28-8645-43bf-b66c-5b973a7b6614"
+  },
+  {
+    "title": "Lehrstelle als Automatiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Wangen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-automatiker-in-efz-2026/063b1c3e-514d-4bc2-92cc-e47069b8f5de"
+  },
+  {
+    "title": "Lehrstelle als Polymechaniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Zweisimmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-polymechaniker-in-efz-2026/cbafd0eb-ebfa-42be-97ff-79e61f51c04c"
+  },
+  {
+    "title": "Lehrstelle als Polymechaniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-polymechaniker-in-efz-2026/0cd69a92-1830-47cb-8de6-18862a8f17a3"
+  },
+  {
+    "title": "Talent Acquisition Specialist",
+    "experience": "Berufserfahrene",
+    "locations": "Emmen",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/talent-acquisition-specialist/42973776-f8f8-41e0-88fe-e74df78f5263"
+  },
+  {
+    "title": "Lehrstelle als Logistiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-logistiker-in-efz-2026/6ec9dac6-4ac0-4872-a732-b4deaceca1e2"
+  },
+  {
+    "title": "Lehrstelle als Logistiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Zweisimmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-logistiker-in-efz-2026/1045c507-3f5f-4ebb-855e-a91c32d44774"
+  },
+  {
+    "title": "Lehrstelle als Polymechaniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Stans",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-polymechaniker-in-efz-2026/a95798a2-4fe5-46fb-8a1e-52a0d0eda46a"
+  },
+  {
+    "title": "Lehrstelle als Elektroniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Wangen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-elektroniker-in-efz-2026/6147a4aa-fd60-424a-b8fa-cfcd1bffaf4c"
+  },
+  {
+    "title": "Lehrstelle als Logistiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-logistiker-in-efz-2026/4e3251e5-a559-4f14-935f-e9e35908f5af"
+  },
+  {
+    "title": "Lehrstelle als Automatiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-automatiker-in-efz-2026/77c40c56-7c6d-4a49-9c27-b381c1b0e764"
+  },
+  {
+    "title": "Lehrstelle als Elektroniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-elektroniker-in-efz-2026/36e07b98-90c4-4c60-96e9-cae1f21f2328"
+  },
+  {
+    "title": "System Engineer Electric & Electronics",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-engineer-electric-electronics/97075132-cc47-4c2d-9fb7-8cda789ad1a4"
+  },
+  {
+    "title": "Lehrstelle als Elektroniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-elektroniker-in-efz-2026/0726bc43-d55f-4fa1-9698-e8e1c5d19a87"
+  },
+  {
+    "title": "Lehrstelle als Automatiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-automatiker-in-efz-2026/3950addc-920e-425b-aeb0-8ade90a0e260"
+  },
+  {
+    "title": "Lehrstelle als Automatiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-automatiker-in-efz-2026/5239d890-8649-4199-8f4b-1a60127bf37f"
+  },
+  {
+    "title": "Lehrstelle als Logistiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-logistiker-in-efz-2026/42fd5759-0cf5-4072-b710-4d39aaaebbe9"
+  },
+  {
+    "title": "Lehrstelle als Logistiker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-logistiker-in-efz-2026/1d3f6e79-ee0d-4001-a4c9-9f03a9916eaa"
+  },
+  {
+    "title": "Lehrstelle als Polymechaniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-polymechaniker-in-efz-2026/b3ae05a8-6f5c-4874-9fec-e8f39e5b16bf"
+  },
+  {
+    "title": "Lehrstelle als Polymechaniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Wilderswil",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-polymechaniker-in-efz-2026/b024a082-1041-4d7a-963a-4fa1d84dcdc1"
+  },
+  {
+    "title": "Lehrstelle als Informatiker/in EFZ Plattformentwicklung 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-informatiker-in-efz-plattformentwicklung-2026/29b6badb-4529-4b2b-b35d-f60849ec2e11"
+  },
+  {
+    "title": "Lehrstelle als Informatiker/in EFZ Applikationsentwicklung 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Ennetmoos",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-informatiker-in-efz-applikationsentwicklung-2026/8ff2fd6e-ee28-43b3-a28d-6937d1c221a3"
+  },
+  {
+    "title": "Lehrstelle als Kauffrau/Kaufmann EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-kauffrau-kaufmann-efz-2026/bd096db0-bb02-4554-8879-f562729b5588"
+  },
+  {
+    "title": "Lehrstelle als Polymechaniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-polymechaniker-in-efz-2026/1918f159-c51e-4aa7-91dc-d3d364a95fec"
+  },
+  {
+    "title": "Lehrstelle als Kauffrau/Kaufmann EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-kauffrau-kaufmann-efz-2026/75cdbb98-3cd1-4974-bf49-673cbeb8b192"
+  },
+  {
+    "title": "Lehrstelle als Kauffrau/Kaufmann EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Bern",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-kauffrau-kaufmann-efz-2026/f762c920-e32c-4e7c-aeb4-fe9f316ff6ea"
+  },
+  {
+    "title": "Lehrstelle als Anlagen- und Apparatebauer/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-anlagen-und-apparatebauer-in-efz-2026/64f4c4d1-fb3c-4b24-b961-e34019129eb1"
+  },
+  {
+    "title": "Lehrstelle als Elektroniker/in EFZ 2026",
+    "experience": null,
+    "locations": "Schülerinnen & Schüler Zweisimmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/lehrstelle-als-elektroniker-in-efz-2026/31bf7d7f-fc5e-4a47-a039-537ab6980fc5"
+  },
+  {
+    "title": "Key User Team Center",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/key-user-team-center/bf1ff35e-fe53-4526-acfa-20e2ca445d4a"
+  },
+  {
+    "title": "ArchitektIn oder BauingenieurIn für die Areal-/ Projektentwicklung in Thun",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/architektin-oder-bauingenieurin-fuer-die-areal-projektentwicklung-in-thun/f4895696-d479-450d-9ce4-858cb998b482"
+  },
+  {
+    "title": "Technician Sheet Metal",
+    "experience": "Berufserfahrene",
+    "locations": "Alpnach",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/technician-sheet-metal/17ba5239-4592-4d62-9147-7b7be7e6c92e"
+  },
+  {
+    "title": "KonfigurationsmanagerIn",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/konfigurationsmanagerin/ed1d02a3-efc1-4d95-88e4-4816907b9e27"
+  },
+  {
+    "title": "Senior Network Engineer",
+    "experience": "Berufserfahrene",
+    "locations": "Dübendorf ZH",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-network-engineer/67b71e8e-7579-444d-a54d-ea2133e4564d"
+  },
+  {
+    "title": "Quality Manager SCM",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/quality-manager-scm/f89591b1-5b4b-4419-8f25-ac9d1e300cee"
+  },
+  {
+    "title": "Strategic Procurement Manager Direct & Indirect",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/strategic-procurement-manager-direct-indirect/474913df-d729-4d01-a7d7-6fd325b7a4bc"
+  },
+  {
+    "title": "Manager DMS",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/manager-dms/287a9fff-3a3c-46ed-9fdd-4c8ce9752dc5"
+  },
+  {
+    "title": "Eidg. Dipl. ElektroinstallateurIn",
+    "experience": "Berufserfahrene",
+    "locations": "Thun",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/eidg-dipl-elektroinstallateurin/948b029b-6376-4933-a0e5-2aa6a74e77ea"
+  },
+  {
+    "title": "Legal Counsel",
+    "experience": "Berufserfahrene",
+    "locations": "Bern, Emmen",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/legal-counsel/82e7ef44-0a12-421b-8f08-491a1d58b89d"
+  },
+  {
+    "title": "(Senior) Business Intelligence Specialist",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/senior-business-intelligence-specialist/61a4508a-7def-4e29-ad8a-a37380d1817d"
+  },
+  {
+    "title": "Quality Manager Helicopter",
+    "experience": "Berufserfahrene",
+    "locations": "Alpnach",
+    "country": "Schweiz",
+    "workload": "100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/quality-manager-helicopter/814a7e28-ffc6-4bf0-ab97-b51bb3f6e3de"
+  },
+  {
+    "title": "System/Netzwerk- Architekt oder Architektin",
+    "experience": "Berufserfahrene",
+    "locations": "Bern",
+    "country": "Schweiz",
+    "workload": "80–100%",
+    "url": "https://jobs.ruag.ch/offene-stellen/system-netzwerk-architekt-oder-architektin/1fa43b5d-2e07-4067-9d8a-bf5a97e88fad"
+  }
+]
