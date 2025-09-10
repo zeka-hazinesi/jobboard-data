@@ -1,0 +1,4382 @@
+{
+  "hydra:member": [
+    {
+      "jobTitle": "Franchisenehmer*in Region St. Gallen / Appenzell",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1820",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/zentrale-partner-spar-handels-ag-1",
+        "name": "Zentrale Partner SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 1001
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Franchisenehmer*in",
+          "uid": 6
+        }
+      ],
+      "uid": 646
+    },
+    {
+      "jobTitle": "Franchisenehmer*in in der Region Zürich West",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1893",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/zentrale-partner-spar-handels-ag-1",
+        "name": "Zentrale Partner SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 1001
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Franchisenehmer*in",
+          "uid": 6
+        }
+      ],
+      "uid": 1029
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2043",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-goldach",
+        "name": "SPAR Supermarkt Goldach",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9403,
+        "city": "Goldach",
+        "coordinatex": 47.47467,
+        "coordinatey": 9.46701,
+        "uid": 161
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1053
+    },
+    {
+      "jobTitle": "Verkäufer*in 20 - 60% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2045",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-bern-papiermuehlestrasse",
+        "name": "SPAR express Bern Papiermühlestrasse",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 3013,
+        "city": "Bern",
+        "coordinatex": 46.954625,
+        "coordinatey": 7.459954,
+        "uid": 600
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1097
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2044",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-bern-papiermuehlestrasse",
+        "name": "SPAR express Bern Papiermühlestrasse",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 3013,
+        "city": "Bern",
+        "coordinatex": 46.954625,
+        "coordinatey": 7.459954,
+        "uid": 600
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1098
+    },
+    {
+      "jobTitle": "Servicemitarbeiter*in 40% für Bistro im SPAR express",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2010",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-express-kuessnacht-am-rigi",
+        "name": "SPAR Express Küssnacht am Rigi",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 6403,
+        "city": "Küssnacht",
+        "coordinatex": 47.100869,
+        "coordinatey": 8.45055,
+        "uid": 1010
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1236
+    },
+    {
+      "jobTitle": "Franchisenehmer*in in der Region Aargau",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1892",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/zentrale-partner-spar-handels-ag-1",
+        "name": "Zentrale Partner SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 1001
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Franchisenehmer*in",
+          "uid": 6
+        }
+      ],
+      "uid": 1293
+    },
+    {
+      "jobTitle": "Verkäufer*in 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1834",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-niederhasli",
+        "name": "SPAR Supermarkt Niederhasli",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8155,
+        "city": "Niederhasli",
+        "coordinatex": 47.480078,
+        "coordinatey": 8.490211,
+        "uid": 78
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1385
+    },
+    {
+      "jobTitle": "Franchisenehmer*in in der Region Bern",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1891",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/zentrale-partner-spar-handels-ag-1",
+        "name": "Zentrale Partner SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 1001
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Franchisenehmer*in",
+          "uid": 6
+        }
+      ],
+      "uid": 1475
+    },
+    {
+      "jobTitle": "Verkäufer*in 20 - 30% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1824",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-mettmenstetten",
+        "name": "SPAR Supermarkt Mettmenstetten",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8932,
+        "city": "Mettmenstetten",
+        "coordinatex": 47.243828,
+        "coordinatey": 8.461574,
+        "uid": 582
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1502
+    },
+    {
+      "jobTitle": "Franchisenehmer*in in der Region Zürich Ost / Winterthur",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1889",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/zentrale-partner-spar-handels-ag-1",
+        "name": "Zentrale Partner SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 1001
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Franchisenehmer*in",
+          "uid": 6
+        }
+      ],
+      "uid": 1503
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1634",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-schindellegi",
+        "name": "SPAR Supermarkt Schindellegi",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8834,
+        "city": "Schindellegi",
+        "coordinatex": 47.174338,
+        "coordinatey": 8.711468,
+        "uid": 79
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1662
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2149",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-esslingen",
+        "name": "SPAR Supermarkt Esslingen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8133,
+        "city": "Esslingen",
+        "coordinatex": 47.287565,
+        "coordinatey": 8.710876,
+        "uid": 103
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1790
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2191",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-horgen-seestrasse",
+        "name": "SPAR express Horgen Seestrasse",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8810,
+        "city": "Horgen",
+        "coordinatex": 47.261731,
+        "coordinatey": 8.594915,
+        "uid": 602
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1793
+    },
+    {
+      "jobTitle": "Verkäufer*in 20 - 40% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2188",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-waedenswil",
+        "name": "SPAR express AVIA Wädenswil",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8820,
+        "city": "Wädenswil",
+        "coordinatex": 47.230093,
+        "coordinatey": 8.667242,
+        "uid": 853
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1797
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Bistro - Mitarbeit 40 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2169",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-express-kuessnacht-am-rigi",
+        "name": "SPAR Express Küssnacht am Rigi",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 6403,
+        "city": "Küssnacht",
+        "coordinatex": 47.100869,
+        "coordinatey": 8.45055,
+        "uid": 1010
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1834
+    },
+    {
+      "jobTitle": "Verkäufer*in 20 - 40% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2197",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-richterswil",
+        "name": "SPAR express Richterswil",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8805,
+        "city": "Richterswil",
+        "coordinatex": 47.21404,
+        "coordinatey": 8.700389,
+        "uid": 884
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1838
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2198",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-rueti-zh",
+        "name": "SPAR Supermarkt Rüti ZH",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8630,
+        "city": "Rüti",
+        "coordinatex": 47.255857,
+        "coordinatey": 8.856389,
+        "uid": 573
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1851
+    },
+    {
+      "jobTitle": "Verkäufer*in 40 - 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2221",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-weiningen",
+        "name": "SPAR Supermarkt Weiningen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8104,
+        "city": "Weiningen",
+        "coordinatex": 47.419928,
+        "coordinatey": 8.434778,
+        "uid": 29
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1869
+    },
+    {
+      "jobTitle": "Stellvertretende*r Filialleiter*in / Sellvertretende*r Marktleiter*in  80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2227",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-freienbach",
+        "name": "SPAR express Freienbach",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8807,
+        "city": "Freienbach",
+        "coordinatex": 47.205536,
+        "coordinatey": 8.758571,
+        "uid": 812
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1884
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1813",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-regensdorf",
+        "name": "SPAR Supermarkt Regensdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8105,
+        "city": "Regensdorf",
+        "coordinatex": 47.445657,
+        "coordinatey": 8.46292,
+        "uid": 148
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1909
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Kloten Bramen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2251",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/nsd-ag-kloten",
+        "name": "SPAR Supermarkt Bramen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8302,
+        "city": "Kloten-Bramen",
+        "coordinatex": 47.444122,
+        "coordinatey": 8.578880999999999,
+        "uid": 56
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1916
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2257",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/eurospar-bernina",
+        "name": "EUROSPAR Supermarkt Bernina",
+        "markettype": {
+          "marketType": "EUROSPAR Supermarkt",
+          "uid": 9
+        },
+        "zip": 8057,
+        "city": "Zürich-Oerlikon",
+        "coordinatex": 47.403215,
+        "coordinatey": 8.547119,
+        "uid": 119
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1922
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2256",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-zuerich-neubrunnenstrasse",
+        "name": "SPAR express AVIA ZH Neunbrunnenstrasse",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8050,
+        "city": "Zürich",
+        "coordinatex": 47.41752,
+        "coordinatey": 8.540631,
+        "uid": 833
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1923
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2258",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-niederlenz",
+        "name": "SPAR Supermarkt Niederlenz",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5702,
+        "city": "Niederlenz",
+        "coordinatex": 47.402664,
+        "coordinatey": 8.175676,
+        "uid": 81
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1924
+    },
+    {
+      "jobTitle": "Koch / Köchin 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2265",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-herisau",
+        "name": "SPAR Supermarkt Herisau",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9100,
+        "city": "Herisau",
+        "coordinatex": 47.385669,
+        "coordinatey": 9.280847,
+        "uid": 162
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1927
+    },
+    {
+      "jobTitle": "Verkäufer*in 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2269",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-ostermundigen",
+        "name": "SPAR express Ostermundigen",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 3072,
+        "city": "Ostermundigen",
+        "coordinatex": 46.963875,
+        "coordinatey": 7.483398,
+        "uid": 624
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1930
+    },
+    {
+      "jobTitle": "Verkäufer*in im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2270",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-ostermundigen",
+        "name": "SPAR express Ostermundigen",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 3072,
+        "city": "Ostermundigen",
+        "coordinatex": 46.963875,
+        "coordinatey": 7.483398,
+        "uid": 624
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1931
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2277",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-duebendorf",
+        "name": "SPAR Supermarkt Dübendorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8600,
+        "city": "Dübendorf",
+        "coordinatex": 47.389641,
+        "coordinatey": 8.617294,
+        "uid": 27
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1938
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2278",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-esslingen",
+        "name": "SPAR Supermarkt Esslingen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8133,
+        "city": "Esslingen",
+        "coordinatex": 47.287565,
+        "coordinatey": 8.710876,
+        "uid": 103
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1939
+    },
+    {
+      "jobTitle": "Verkäufer*in  40 - 60% für Morgen- und Wochenendschichten",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2097",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-horgen-seestrasse",
+        "name": "SPAR express Horgen Seestrasse",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8810,
+        "city": "Horgen",
+        "coordinatex": 47.261731,
+        "coordinatey": 8.594915,
+        "uid": 602
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1941
+    },
+    {
+      "jobTitle": "Verkäufer*in 30 - 40% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2289",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/nsd-ag-daellikon",
+        "name": "SPAR Supermarkt Dällikon",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8108,
+        "city": "Dällikon",
+        "coordinatex": 47.439346,
+        "coordinatey": 8.441002,
+        "uid": 46
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1946
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2295",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/eurospar-davos-dorf",
+        "name": "EUROSPAR Supermarkt Davos Dorf",
+        "markettype": {
+          "marketType": "EUROSPAR Supermarkt",
+          "uid": 9
+        },
+        "zip": 7260,
+        "city": "Davos Dorf",
+        "coordinatex": 46.809202,
+        "coordinatey": 9.840188,
+        "uid": 115
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1952
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Eschen FZ/BA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2299",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-eschen",
+        "name": "SPAR Supermarkt Eschen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9492,
+        "city": "Eschen FL",
+        "coordinatex": 47.212413,
+        "coordinatey": 9.523053,
+        "uid": 662
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1955
+    },
+    {
+      "jobTitle": "Crew Member 40 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2283",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/autobahnraststaette-st-margrethen-sued-a1",
+        "name": "Autobahnraststätte St. Margrethen Süd A1",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 9430,
+        "city": "St. Margrethen",
+        "coordinatex": 47.460967,
+        "coordinatey": 9.60328,
+        "uid": 1012
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1957
+    },
+    {
+      "jobTitle": "Kommissionierer*in TS für Samstagseinsatz im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2275",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Logistik",
+          "uid": 4
+        }
+      ],
+      "uid": 1961
+    },
+    {
+      "jobTitle": "Mitarbeiter*in Verkaufssupport 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2298",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": {
+        "title": "Region Zentralschweiz (SPAR Handels AG)",
+        "zip": 6000,
+        "uid": 10001
+      },
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 1962
+    },
+    {
+      "jobTitle": "Operating Manager*in Retail 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2285",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/autobahnraststaette-st-margrethen-sued-a1",
+        "name": "Autobahnraststätte St. Margrethen Süd A1",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 9430,
+        "city": "St. Margrethen",
+        "coordinatex": 47.460967,
+        "coordinatey": 9.60328,
+        "uid": 1012
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1965
+    },
+    {
+      "jobTitle": "Verkäufer*in 30 - 60%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2314",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-valbella",
+        "name": "SPAR Supermarkt Valbella",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 7077,
+        "city": "Valbella",
+        "coordinatex": 46.746285,
+        "coordinatey": 9.555299,
+        "uid": 580
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1968
+    },
+    {
+      "jobTitle": "Verkäufer*in 40 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2308",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-express-weggis",
+        "name": "SPAR express Weggis",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 6353,
+        "city": "Weggis",
+        "coordinatex": 47.03539,
+        "coordinatey": 8.423138,
+        "uid": 1013
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1969
+    },
+    {
+      "jobTitle": "Praktikum SPAR Niederlenz",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2321",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-niederlenz",
+        "name": "SPAR Supermarkt Niederlenz",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5702,
+        "city": "Niederlenz",
+        "coordinatex": 47.402664,
+        "coordinatey": 8.175676,
+        "uid": 81
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Praktikum",
+          "uid": 2
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1972
+    },
+    {
+      "jobTitle": "Verkäufer*in 40 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2325",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-express-kerns",
+        "name": "SPAR express Kerns",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 6064,
+        "city": "Kerns",
+        "coordinatex": 46.900165,
+        "coordinatey": 8.275728,
+        "uid": 1009
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1975
+    },
+    {
+      "jobTitle": "Verkäufer*in 40% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2324",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-alpnach",
+        "name": "SPAR express AVIA Alpnach Dorf",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 6055,
+        "city": "Alpnach Dorf",
+        "coordinatex": 46.938662,
+        "coordinatey": 8.270631999999999,
+        "uid": 844
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1979
+    },
+    {
+      "jobTitle": "Fleischfachmann/-frau 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2266",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-herisau",
+        "name": "SPAR Supermarkt Herisau",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9100,
+        "city": "Herisau",
+        "coordinatex": 47.385669,
+        "coordinatey": 9.280847,
+        "uid": 162
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1980
+    },
+    {
+      "jobTitle": "Verkäufer*in 40% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2333",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-altdorf",
+        "name": "SPAR express AVIA Altdorf",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 6460,
+        "city": "Altdorf",
+        "coordinatex": 46.888088,
+        "coordinatey": 8.632572,
+        "uid": 835
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1985
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2337",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-schuepfen",
+        "name": "SPAR Supermarkt Schüpfen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 3054,
+        "city": "Schüpfen",
+        "coordinatex": 47.043143,
+        "coordinatey": 7.380264,
+        "uid": 170
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1988
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Triesen FZ/BA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2358",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-triesen",
+        "name": "SPAR Supermarkt Triesen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9495,
+        "city": "Triesen",
+        "coordinatex": 47.11603,
+        "coordinatey": 9.524065,
+        "uid": 804
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1998
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Goldach EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2359",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-goldach",
+        "name": "SPAR Supermarkt Goldach",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9403,
+        "city": "Goldach",
+        "coordinatex": 47.47467,
+        "coordinatey": 9.46701,
+        "uid": 161
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 1999
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Arbon EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2361",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-arbon",
+        "name": "SPAR Supermarkt Arbon",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9320,
+        "city": "Arbon",
+        "coordinatex": 47.519601,
+        "coordinatey": 9.423915,
+        "uid": 124
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2001
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Sarnen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2362",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-sarnen",
+        "name": "SPAR Supermarkt Sarnen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6060,
+        "city": "Sarnen",
+        "coordinatex": 46.897307,
+        "coordinatey": 8.247574,
+        "uid": 9
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2002
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Buchrain EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2363",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-buchrain",
+        "name": "SPAR Supermarkt Buchrain",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6033,
+        "city": "Buchrain",
+        "coordinatex": 47.096264,
+        "coordinatey": 8.351372,
+        "uid": 146
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2003
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Nottwil EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2364",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-nottwil",
+        "name": "SPAR Supermarkt Nottwil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6207,
+        "city": "Nottwil",
+        "coordinatex": 47.135793,
+        "coordinatey": 8.135516,
+        "uid": 132
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2004
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Oberkirch EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2365",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-oberkirch",
+        "name": "SPAR Supermarkt Oberkirch",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6208,
+        "city": "Oberkirch",
+        "coordinatex": 47.156782,
+        "coordinatey": 8.115818,
+        "uid": 74
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2005
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Turgi EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2372",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-turgi",
+        "name": "SPAR Supermarkt Turgi",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5300,
+        "city": "Turgi",
+        "coordinatex": 47.494424,
+        "coordinatey": 8.252433,
+        "uid": 106
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2012
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Spreitenbach EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2373",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-spreitenbach",
+        "name": "SPAR Supermarkt Spreitenbach",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8957,
+        "city": "Spreitenbach",
+        "coordinatex": 47.425405,
+        "coordinatey": 8.361983,
+        "uid": 26
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2013
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Schindeleggi EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2374",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-schindellegi",
+        "name": "SPAR Supermarkt Schindellegi",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8834,
+        "city": "Schindellegi",
+        "coordinatex": 47.174338,
+        "coordinatey": 8.711468,
+        "uid": 79
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2014
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Rüschlikon EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2375",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-rueschlikon",
+        "name": "SPAR Supermarkt Rüschlikon",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8803,
+        "city": "Rüschlikon",
+        "coordinatex": 47.306258,
+        "coordinatey": 8.556283,
+        "uid": 171
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2015
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Rüti ZH EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2376",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-rueti-zh",
+        "name": "SPAR Supermarkt Rüti ZH",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8630,
+        "city": "Rüti",
+        "coordinatex": 47.255857,
+        "coordinatey": 8.856389,
+        "uid": 573
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2016
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Schaffhausen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2377",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-sh-stahlgiesserei",
+        "name": "SPAR Supermarkt SH Stahlgiesserei",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8200,
+        "city": "Schaffhausen",
+        "coordinatex": 47.703957,
+        "coordinatey": 8.630376,
+        "uid": 908
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2017
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Regensdorf EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2378",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-regensdorf",
+        "name": "SPAR Supermarkt Regensdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8105,
+        "city": "Regensdorf",
+        "coordinatex": 47.445657,
+        "coordinatey": 8.46292,
+        "uid": 148
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2018
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Dübendorf EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2379",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-duebendorf",
+        "name": "SPAR Supermarkt Dübendorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8600,
+        "city": "Dübendorf",
+        "coordinatex": 47.389641,
+        "coordinatey": 8.617294,
+        "uid": 27
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2019
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Esslingen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2381",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-esslingen",
+        "name": "SPAR Supermarkt Esslingen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8133,
+        "city": "Esslingen",
+        "coordinatex": 47.287565,
+        "coordinatey": 8.710876,
+        "uid": 103
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2020
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Seewen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2380",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-seewen",
+        "name": "SPAR Supermarkt Seewen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6423,
+        "city": "Seewen",
+        "coordinatex": 47.02815,
+        "coordinatey": 8.632016,
+        "uid": 147
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2021
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Mettmenstetten EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2382",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-mettmenstetten",
+        "name": "SPAR Supermarkt Mettmenstetten",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8932,
+        "city": "Mettmenstetten",
+        "coordinatex": 47.243828,
+        "coordinatey": 8.461574,
+        "uid": 582
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2022
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Niederhasli EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2383",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-niederhasli",
+        "name": "SPAR Supermarkt Niederhasli",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8155,
+        "city": "Niederhasli",
+        "coordinatex": 47.480078,
+        "coordinatey": 8.490211,
+        "uid": 78
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2023
+    },
+    {
+      "jobTitle": "IT System Engineer / Infrastruktur Manager*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2384",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-management-ag",
+        "name": "SPAR Management AG",
+        "markettype": {
+          "marketType": "SPAR Management AG",
+          "uid": 12
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 660
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2024
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2385",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-andwil",
+        "name": "SPAR Supermarkt Andwil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9204,
+        "city": "Andwil",
+        "coordinatex": 47.439564,
+        "coordinatey": 9.26745,
+        "uid": 135
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2025
+    },
+    {
+      "jobTitle": "Initiativbewerbung",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1072",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2027
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Baden EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2390",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil-ts",
+        "name": "SPAR Supermarkt Baden-Dättwil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.451575,
+        "coordinatey": 8.28993,
+        "uid": 156
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2029
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Dättwil EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2391",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil",
+        "name": "SPAR Supermarkt Dättwil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.454923,
+        "coordinatey": 8.282346,
+        "uid": 572
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2030
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Wettingen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2392",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-wettingen",
+        "name": "SPAR Supermarkt Wettingen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5430,
+        "city": "Wettingen",
+        "coordinatex": 47.464424,
+        "coordinatey": 8.328798,
+        "uid": 14
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2031
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Niederlenz EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2393",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-niederlenz",
+        "name": "SPAR Supermarkt Niederlenz",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5702,
+        "city": "Niederlenz",
+        "coordinatex": 47.402664,
+        "coordinatey": 8.175676,
+        "uid": 81
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2032
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Staufen-Lenzburg EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2394",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/eurospar-lenzburg",
+        "name": "EUROSPAR Supermarkt Lenzburg",
+        "markettype": {
+          "marketType": "EUROSPAR Supermarkt",
+          "uid": 9
+        },
+        "zip": 5603,
+        "city": "Lenzburg-Staufen",
+        "coordinatex": 47.3869,
+        "coordinatey": 8.169671,
+        "uid": 121
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2033
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Herisau EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2395",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-herisau",
+        "name": "SPAR Supermarkt Herisau",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9100,
+        "city": "Herisau",
+        "coordinatex": 47.385669,
+        "coordinatey": 9.280847,
+        "uid": 162
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2034
+    },
+    {
+      "jobTitle": "Junior Sortimentsmanager*in Wein 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2340",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-management-ag",
+        "name": "SPAR Management AG",
+        "markettype": {
+          "marketType": "SPAR Management AG",
+          "uid": 12
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 660
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2035
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 30%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2400",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-biberist",
+        "name": "SPAR Supermarkt Biberist",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 4562,
+        "city": "Biberist",
+        "coordinatex": 47.186901,
+        "coordinatey": 7.555211,
+        "uid": 811
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2036
+    },
+    {
+      "jobTitle": "Allrounder*in Verkauf für den Outletmarkt  in der Zentrale 60%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2399",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2038
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2410",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-bilten",
+        "name": "SPAR express Bilten",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8865,
+        "city": "Bilten",
+        "coordinatex": 47.152139,
+        "coordinatey": 9.028755,
+        "uid": 803
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2043
+    },
+    {
+      "jobTitle": "Verkäufer*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2236",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-luzern-bleicherstr",
+        "name": "SPAR Supermarkt Luzern-Neustadt",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6003,
+        "city": "Luzern",
+        "coordinatex": 47.042411,
+        "coordinatey": 8.306149,
+        "uid": 168
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2046
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2243",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-regensdorf",
+        "name": "SPAR Supermarkt Regensdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8105,
+        "city": "Regensdorf",
+        "coordinatex": 47.445657,
+        "coordinatey": 8.46292,
+        "uid": 148
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2049
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Dällikon EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2366",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/nsd-ag-daellikon",
+        "name": "SPAR Supermarkt Dällikon",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8108,
+        "city": "Dällikon",
+        "coordinatex": 47.439346,
+        "coordinatey": 8.441002,
+        "uid": 46
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2051
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Kloten Breiti EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2367",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-kloten-breitistrasse",
+        "name": "SPAR Supermarkt Kloten Breitistrasse",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8302,
+        "city": "Kloten",
+        "coordinatex": 47.447722,
+        "coordinatey": 8.584222,
+        "uid": 13
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2052
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Urdorf EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2368",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-urdorf",
+        "name": "SPAR Supermarkt Urdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8902,
+        "city": "Urdorf",
+        "coordinatex": 47.381319,
+        "coordinatey": 8.424234,
+        "uid": 28
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2053
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Weiningen EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2369",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-weiningen",
+        "name": "SPAR Supermarkt Weiningen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8104,
+        "city": "Weiningen",
+        "coordinatex": 47.419928,
+        "coordinatey": 8.434778,
+        "uid": 29
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2054
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Zürich Regensbergstrasse EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2370",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-zuerich-regensbergstrasse",
+        "name": "SPAR Supermarkt Zürich - Regensbergstrasse",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8050,
+        "city": "Zürich",
+        "coordinatex": 47.411566,
+        "coordinatey": 8.527923,
+        "uid": 71
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2055
+    },
+    {
+      "jobTitle": "Lehrstelle Detailhandel SPAR Supermarkt in Schöfflisdorf EFZ/EBA 2026",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2371",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-schoefflisdorf",
+        "name": "SPAR Supermarkt Schöfflisdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8165,
+        "city": "Schöfflisdorf",
+        "coordinatex": 47.499201,
+        "coordinatey": 8.414152,
+        "uid": 35
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2056
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2387",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-greencity",
+        "name": "SPAR Supermarkt Greencity",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8041,
+        "city": "Zürich",
+        "coordinatex": 47.338773,
+        "coordinatey": 8.520537000000001,
+        "uid": 918
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2060
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2388",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-zollfreilager",
+        "name": "SPAR Supermarkt Zollfreilager",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8047,
+        "city": "Zürich",
+        "coordinatex": 47.379738,
+        "coordinatey": 8.490404,
+        "uid": 123
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2061
+    },
+    {
+      "jobTitle": "Praktikant*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2415",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-weinfelden",
+        "name": "SPAR express AVIA Weinfelden",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8570,
+        "city": "Weinfelden",
+        "coordinatex": 47.562843,
+        "coordinatey": 9.123347,
+        "uid": 863
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Praktikum",
+          "uid": 2
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2063
+    },
+    {
+      "jobTitle": "Teamleader*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2313",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/autobahnraststaette-st-margrethen-sued-a1",
+        "name": "Autobahnraststätte St. Margrethen Süd A1",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 9430,
+        "city": "St. Margrethen",
+        "coordinatex": 47.460967,
+        "coordinatey": 9.60328,
+        "uid": 1012
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2067
+    },
+    {
+      "jobTitle": "Crew Member 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2417",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/default-dc01293244",
+        "name": "SPAR express Herrlisberg Nord A3",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8820,
+        "city": "Wädenswil",
+        "coordinatex": 47.221361,
+        "coordinatey": 8.660418,
+        "uid": 1008
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2070
+    },
+    {
+      "jobTitle": "Aushilfs-LKW-Chauffeur C/CE 10 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2176",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Logistik",
+          "uid": 4
+        }
+      ],
+      "uid": 2071
+    },
+    {
+      "jobTitle": "Verkäufer*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2421",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-zuerich-toblerplatz",
+        "name": "SPAR express Zürich Toblerplatz",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8044,
+        "city": "Zürich",
+        "coordinatex": 47.379216,
+        "coordinatey": 8.559891,
+        "uid": 581
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2072
+    },
+    {
+      "jobTitle": "Stellvertretende*r Filialleiter*in / Stellvertretende*r Marktleiter*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2425",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-duebendorf",
+        "name": "SPAR Supermarkt Dübendorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8600,
+        "city": "Dübendorf",
+        "coordinatex": 47.389641,
+        "coordinatey": 8.617294,
+        "uid": 27
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2074
+    },
+    {
+      "jobTitle": "Verkäufer*in 60 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2426",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/kuehne-stephan0",
+        "name": "SPAR Supermarkt Otelfingen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8112,
+        "city": "Otelfingen",
+        "coordinatex": 47.459116,
+        "coordinatey": 8.385526,
+        "uid": 86
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2075
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2428",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-rueschlikon",
+        "name": "SPAR Supermarkt Rüschlikon",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8803,
+        "city": "Rüschlikon",
+        "coordinatex": 47.306258,
+        "coordinatey": 8.556283,
+        "uid": 171
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2076
+    },
+    {
+      "jobTitle": "Marktleiter*in / Filialleiter*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2427",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-maienfeld",
+        "name": "SPAR Supermarkt Maienfeld",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 7304,
+        "city": "Maienfeld",
+        "coordinatex": 47.008149,
+        "coordinatey": 9.530866,
+        "uid": 62
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2077
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2430",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-liebefeld",
+        "name": "SPAR Supermarkt Liebefeld",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 3097,
+        "city": "Bern-Liebefeld",
+        "coordinatex": 46.93615,
+        "coordinatey": 7.416722,
+        "uid": 583
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2078
+    },
+    {
+      "jobTitle": "Verkäufer*in 50% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2431",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/werdmueller-rolf",
+        "name": "SPAR Supermarkt Arth",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6415,
+        "city": "Arth",
+        "coordinatex": 47.064521,
+        "coordinatey": 8.523606000000001,
+        "uid": 65
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2079
+    },
+    {
+      "jobTitle": "Verkäufer*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2433",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-winterthur-wartstrasse",
+        "name": "SPAR express Winterthur Wartstrasse",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8400,
+        "city": "Winterthur",
+        "coordinatex": 47.500979,
+        "coordinatey": 8.722842,
+        "uid": 915
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2080
+    },
+    {
+      "jobTitle": "Lehrstelle Kaufmann/-frau EFZ D&A",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2436",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2083
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/1440",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-seewen",
+        "name": "SPAR Supermarkt Seewen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 6423,
+        "city": "Seewen",
+        "coordinatex": 47.02815,
+        "coordinatey": 8.632016,
+        "uid": 147
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2086
+    },
+    {
+      "jobTitle": "Verkäufer*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2448",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-heimberg",
+        "name": "SPAR Supermarkt Heimberg mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 3627,
+        "city": "Heimberg",
+        "coordinatex": 46.781124,
+        "coordinatey": 7.603995,
+        "uid": 154
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2087
+    },
+    {
+      "jobTitle": "Verkäufer*in 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2446",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-heimberg",
+        "name": "SPAR Supermarkt Heimberg mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 3627,
+        "city": "Heimberg",
+        "coordinatex": 46.781124,
+        "coordinatey": 7.603995,
+        "uid": 154
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2088
+    },
+    {
+      "jobTitle": "Praktikum SPAR Heimberg",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2454",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-heimberg",
+        "name": "SPAR Supermarkt Heimberg mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 3627,
+        "city": "Heimberg",
+        "coordinatex": 46.781124,
+        "coordinatey": 7.603995,
+        "uid": 154
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Praktikum",
+          "uid": 2
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2089
+    },
+    {
+      "jobTitle": "Mitarbeiter*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2301",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-express-muensingen-west",
+        "name": "SPAR express Münsingen West",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 3110,
+        "city": "Münsingen",
+        "coordinatex": 46.877839,
+        "coordinatey": 7.54177,
+        "uid": 923
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2090
+    },
+    {
+      "jobTitle": "Crew Member 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2327",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-pieterlen",
+        "name": "SPAR express Raststätte Pieterlen",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 2542,
+        "city": "Pieterlen",
+        "coordinatex": 47.169218,
+        "coordinatey": 7.351711,
+        "uid": 898
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2091
+    },
+    {
+      "jobTitle": "Koch / Köchin für Take Away und Mithilfe im Verkauf 60 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2457",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-urdorf",
+        "name": "SPAR Supermarkt Urdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8902,
+        "city": "Urdorf",
+        "coordinatex": 47.381319,
+        "coordinatey": 8.424234,
+        "uid": 28
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2092
+    },
+    {
+      "jobTitle": "HR-Berater*in / HR-Generalist*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2218",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-management-ag",
+        "name": "SPAR Management AG",
+        "markettype": {
+          "marketType": "SPAR Management AG",
+          "uid": 12
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 660
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2093
+    },
+    {
+      "jobTitle": "Verkäufer*in Spätschicht und Wochenendeinsätze 30 - 40% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2456",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-weinfelden",
+        "name": "SPAR express AVIA Weinfelden",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8570,
+        "city": "Weinfelden",
+        "coordinatex": 47.562843,
+        "coordinatey": 9.123347,
+        "uid": 863
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2095
+    },
+    {
+      "jobTitle": "Lehrstelle Logistiker/in EFZ",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2463",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Lehrstelle",
+          "uid": 1
+        }
+      ],
+      "professions": [
+        {
+          "title": "Logistik",
+          "uid": 4
+        }
+      ],
+      "uid": 2096
+    },
+    {
+      "jobTitle": "Verkäufer*in 60%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2455",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-oberburg",
+        "name": "SPAR express Oberburg",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 3414,
+        "city": "Oberburg",
+        "coordinatex": 47.036132,
+        "coordinatey": 7.629249,
+        "uid": 907
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2097
+    },
+    {
+      "jobTitle": "Verkäufer*in 30 - 50%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2465",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil-ts",
+        "name": "SPAR Supermarkt Baden-Dättwil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.451575,
+        "coordinatey": 8.28993,
+        "uid": 156
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2098
+    },
+    {
+      "jobTitle": "Verkäufer*in im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2467",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil-ts",
+        "name": "SPAR Supermarkt Baden-Dättwil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.451575,
+        "coordinatey": 8.28993,
+        "uid": 156
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2099
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2468",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-schoefflisdorf",
+        "name": "SPAR Supermarkt Schöfflisdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8165,
+        "city": "Schöfflisdorf",
+        "coordinatex": 47.499201,
+        "coordinatey": 8.414152,
+        "uid": 35
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2100
+    },
+    {
+      "jobTitle": "Praktikant*in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2469",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil-ts",
+        "name": "SPAR Supermarkt Baden-Dättwil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.451575,
+        "coordinatey": 8.28993,
+        "uid": 156
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Praktikum",
+          "uid": 2
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2101
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2470",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-amriswil",
+        "name": "SPAR Supermarkt Amriswil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8580,
+        "city": "Amriswil",
+        "coordinatex": 47.545121,
+        "coordinatey": 9.285435,
+        "uid": 142
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2102
+    },
+    {
+      "jobTitle": "Franchisenehmer*in in der Region Graubünden",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2472",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/zentrale-partner-spar-handels-ag-1",
+        "name": "Zentrale Partner SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 1001
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Franchisenehmer*in",
+          "uid": 6
+        }
+      ],
+      "uid": 2103
+    },
+    {
+      "jobTitle": "Marketing Mitarbeiter*in Projekte & Kampagnen 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2462",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-handels-ag",
+        "name": "SPAR Handels AG",
+        "markettype": {
+          "marketType": "SPAR Handels AG",
+          "uid": 11
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 659
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2104
+    },
+    {
+      "jobTitle": "Verkäufer*in 50 - 80% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2475",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/venta-hauser",
+        "name": "SPAR Supermarkt Unteriberg",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8842,
+        "city": "Unteriberg",
+        "coordinatex": 47.058472,
+        "coordinatey": 8.800525,
+        "uid": 67
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2105
+    },
+    {
+      "jobTitle": "Verkäufer*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2476",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/venta-hauser",
+        "name": "SPAR Supermarkt Unteriberg",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8842,
+        "city": "Unteriberg",
+        "coordinatex": 47.058472,
+        "coordinatey": 8.800525,
+        "uid": 67
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2106
+    },
+    {
+      "jobTitle": "Verkäufer*in 40 - 80% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2413",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/kuehne-stephan0",
+        "name": "SPAR Supermarkt Otelfingen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8112,
+        "city": "Otelfingen",
+        "coordinatex": 47.459116,
+        "coordinatey": 8.385526,
+        "uid": 86
+      },
+      "customRegion": null,
+      "brand": "Partner",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2107
+    },
+    {
+      "jobTitle": "Verkäufer*in 60%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2496",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-wolfganghof",
+        "name": "SPAR Supermarkt St. Gallen Wolfganghof",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 9014,
+        "city": "St. Gallen",
+        "coordinatex": 47.402866,
+        "coordinatey": 9.336674,
+        "uid": 149
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2108
+    },
+    {
+      "jobTitle": "Stellvertretende*r Filialleiter*in / Stellvertretende*r Marktleiter*in 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2498",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-amriswil",
+        "name": "SPAR Supermarkt Amriswil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8580,
+        "city": "Amriswil",
+        "coordinatex": 47.545121,
+        "coordinatey": 9.285435,
+        "uid": 142
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2109
+    },
+    {
+      "jobTitle": "Verkäufer*in 40 - 60% im Stundenlohn",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2499",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-altnau",
+        "name": "SPAR express Altnau",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8595,
+        "city": "Altnau",
+        "coordinatex": 47.617628,
+        "coordinatey": 9.269131,
+        "uid": 897
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2110
+    },
+    {
+      "jobTitle": "Verkäufer*in 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2500",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-altnau",
+        "name": "SPAR express Altnau",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8595,
+        "city": "Altnau",
+        "coordinatex": 47.617628,
+        "coordinatey": 9.269131,
+        "uid": 897
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2111
+    },
+    {
+      "jobTitle": "Praktikum SPAR Baden-Dättwil TS",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2504",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil-ts",
+        "name": "SPAR Supermarkt Baden-Dättwil mit TS Tamoil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.451575,
+        "coordinatey": 8.28993,
+        "uid": 156
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Praktikum",
+          "uid": 2
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2112
+    },
+    {
+      "jobTitle": "Koch / Köchin 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2503",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-zuerich-schauspielhaus",
+        "name": "SPAR express Zürich Schauspielhaus",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8032,
+        "city": "Zürich",
+        "coordinatex": 47.370508,
+        "coordinatey": 8.549463,
+        "uid": 661
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2113
+    },
+    {
+      "jobTitle": "Koch / Köchin 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2502",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-zuerich-schauspielhaus",
+        "name": "SPAR express Zürich Schauspielhaus",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8032,
+        "city": "Zürich",
+        "coordinatex": 47.370508,
+        "coordinatey": 8.549463,
+        "uid": 661
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2114
+    },
+    {
+      "jobTitle": "Verkäufer*in 60%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2501",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/se-zuerich-schauspielhaus",
+        "name": "SPAR express Zürich Schauspielhaus",
+        "markettype": {
+          "marketType": "SPAR express",
+          "uid": 2
+        },
+        "zip": 8032,
+        "city": "Zürich",
+        "coordinatex": 47.370508,
+        "coordinatey": 8.549463,
+        "uid": 661
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2115
+    },
+    {
+      "jobTitle": "Verkäufer*in mit Verantwortung 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2507",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-turgi",
+        "name": "SPAR Supermarkt Turgi",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5300,
+        "city": "Turgi",
+        "coordinatex": 47.494424,
+        "coordinatey": 8.252433,
+        "uid": 106
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2116
+    },
+    {
+      "jobTitle": "Filialleiter*in / Marktleiter*in 100% in der Region Baden",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2506",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-baden-daettwil",
+        "name": "SPAR Supermarkt Dättwil",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 5405,
+        "city": "Baden-Dättwil",
+        "coordinatex": 47.454923,
+        "coordinatey": 8.282346,
+        "uid": 572
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2117
+    },
+    {
+      "jobTitle": "Operative*r Einkäufer*in 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2508",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-management-ag",
+        "name": "SPAR Management AG",
+        "markettype": {
+          "marketType": "SPAR Management AG",
+          "uid": 12
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 660
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2118
+    },
+    {
+      "jobTitle": "Verkäufer*in 60 - 80%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2509",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-supermarkt-weiningen",
+        "name": "SPAR Supermarkt Weiningen",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8104,
+        "city": "Weiningen",
+        "coordinatex": 47.419928,
+        "coordinatey": 8.434778,
+        "uid": 29
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2119
+    },
+    {
+      "jobTitle": "Stellvertretende*r Filialleiter*in / Stellvertretende*r Marktleiter *in 80 - 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2518",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/sm-regensdorf",
+        "name": "SPAR Supermarkt Regensdorf",
+        "markettype": {
+          "marketType": "SPAR Supermarkt",
+          "uid": 1
+        },
+        "zip": 8105,
+        "city": "Regensdorf",
+        "coordinatex": 47.445657,
+        "coordinatey": 8.46292,
+        "uid": 148
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Teilzeit",
+          "uid": 5
+        }
+      ],
+      "professions": [
+        {
+          "title": "Verkauf",
+          "uid": 3
+        }
+      ],
+      "uid": 2120
+    },
+    {
+      "jobTitle": "Sachbearbeiter*in Sortimentsmanagement Früchte / Gemüse 100%",
+      "linkDetailPage": "https://www.jobs.spar.ch/job-invite/2517",
+      "market": {
+        "singleUri": "https://www.spar.ch/standorte/detail/spar-management-ag",
+        "name": "SPAR Management AG",
+        "markettype": {
+          "marketType": "SPAR Management AG",
+          "uid": 12
+        },
+        "zip": 9015,
+        "city": "St. Gallen",
+        "coordinatex": 47.407575,
+        "coordinatey": 9.287091,
+        "uid": 660
+      },
+      "customRegion": null,
+      "brand": "SPAR",
+      "employmentmodes": [
+        {
+          "title": "Vollzeit",
+          "uid": 6
+        }
+      ],
+      "professions": [
+        {
+          "title": "Kaufmännische Tätigkeit",
+          "uid": 2
+        }
+      ],
+      "uid": 2121
+    }
+  ],
+  "hydra:totalItems": 136,
+  "hydra:view": {
+    "hydra:first": "/_api/success_factors_jobs/jobs?itemsPerPage=9999&page=1&companyUids%5B0%5D=4&companyUids%5B1%5D=9&companyUids%5B2%5D=5&companyUids%5B3%5D=7&companyUids%5B4%5D=2&companyUids%5B5%5D=10&companyUids%5B6%5D=8&companyUids%5B7%5D=3&companyUids%5B8%5D=1&companyUids%5B9%5D=6&companyUids%5B10%5D=0",
+    "hydra:last": "/_api/success_factors_jobs/jobs?itemsPerPage=9999&page=1&companyUids%5B0%5D=4&companyUids%5B1%5D=9&companyUids%5B2%5D=5&companyUids%5B3%5D=7&companyUids%5B4%5D=2&companyUids%5B5%5D=10&companyUids%5B6%5D=8&companyUids%5B7%5D=3&companyUids%5B8%5D=1&companyUids%5B9%5D=6&companyUids%5B10%5D=0",
+    "hydra:pages": [
+      "/_api/success_factors_jobs/jobs?itemsPerPage=9999&page=1&companyUids%5B0%5D=4&companyUids%5B1%5D=9&companyUids%5B2%5D=5&companyUids%5B3%5D=7&companyUids%5B4%5D=2&companyUids%5B5%5D=10&companyUids%5B6%5D=8&companyUids%5B7%5D=3&companyUids%5B8%5D=1&companyUids%5B9%5D=6&companyUids%5B10%5D=0"
+    ],
+    "hydra:page": 1
+  },
+  "hydra:search": {
+    "hydra:template": "/_api/success_factors_jobs/jobs{?professionUids,employmentmodeUids}",
+    "hydra:mapping": [
+      {
+        "variable": "professionUids",
+        "property": "professions.uid"
+      },
+      {
+        "variable": "employmentmodeUids",
+        "property": "employmentmodes.uid"
+      }
+    ]
+  }
+}
