@@ -1,0 +1,3261 @@
+{
+  "offset": 0,
+  "total": 72,
+  "jobs": [
+    {
+      "id": "9705453",
+      "attributes": {
+        "15": [
+          "Migration & Integration"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Kantonaler Sozialdienst"
+        ],
+        "20": [
+          "Buchs AG"
+        ],
+        "10": [
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "dab73971-e3b7-4d5c-a714-50ce8709d9d8",
+      "title": "Mitarbeiter/in Betreuung Asyl 100 % im Schichtdienst",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mitarbeiter-in-betreuung-asyl-im-schichtdienst/dab73971-e3b7-4d5c-a714-50ce8709d9d8"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-20T07:49:48Z",
+      "endDate": "2025-09-18T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-10T06:20:15.898959Z",
+      "hk_id": "1002115"
+    },
+    {
+      "id": "9729404",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Bezirksgericht Kulm"
+        ],
+        "20": [
+          "Kulm"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "530a2d83-0d91-40c6-967e-dc818a2ab1fa",
+      "title": "Kaufmännisches Praktikum WMS (Branche Öffentliche Verwaltung)",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kaufmaennisches-praktikum-wms-branche-oeffentliche-verwaltung/530a2d83-0d91-40c6-967e-dc818a2ab1fa"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-09T07:39:39Z",
+      "endDate": "2025-10-08T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-09T14:31:22.63968Z",
+      "hk_id": "1002159"
+    },
+    {
+      "id": "9729127",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Obergericht, Verwaltungsgericht"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "4817517c-09ad-4158-84d2-fcd61e937abe",
+      "title": "Rechtspraktikantin / Rechtspraktikant 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/rechtspraktikantin-rechtspraktikant/4817517c-09ad-4158-84d2-fcd61e937abe"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-09T06:50:34Z",
+      "endDate": "2025-09-22T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-09T13:43:38.424915Z",
+      "hk_id": "1002106"
+    },
+    {
+      "id": "9713574",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Kantonspolizei"
+        ],
+        "20": [
+          "Schafisheim"
+        ],
+        "10": [
+          "Informatik"
+        ]
+      },
+      "viewkey": "52ecac58-397f-4c1a-b3df-6a61b3e0c093",
+      "title": "Informatikerin / Informatiker EFZ Fachrichtung Plattformentwicklung",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/informatikerin-informatiker-efz-fachrichtung-plattformentwicklung/52ecac58-397f-4c1a-b3df-6a61b3e0c093"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-08T22:00:00Z",
+      "endDate": "2025-10-08T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-09T13:01:52.88379Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9729039",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Informatik Aargau"
+        ],
+        "20": [
+          "Unterentfelden"
+        ],
+        "10": [
+          "Informatik"
+        ]
+      },
+      "viewkey": "62f19022-62c7-49a5-bfb1-a64fe6f90e30",
+      "title": "Platform Engineer 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/platform-engineer/62f19022-62c7-49a5-bfb1-a64fe6f90e30"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-09T22:00:00Z",
+      "endDate": "2025-10-09T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-09T12:55:18.007463Z",
+      "hk_id": "1002124"
+    },
+    {
+      "id": "9727995",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Staatsanwaltschaft Aargau"
+        ],
+        "20": [
+          "Rheinfelden"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "81b4ab88-9bc6-485d-8f6d-f7a47af64019",
+      "title": "Lehrstelle Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-kauffrau-kaufmann-efz/81b4ab88-9bc6-485d-8f6d-f7a47af64019"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-07T22:00:00Z",
+      "endDate": "2025-10-08T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-08T13:07:31.271864Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9728242",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Wirtschaft und Arbeit"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "30d01bf9-906c-4885-9a8e-6fe2148b6f66",
+      "title": "Sachbearbeiterin / Sachbearbeiter Arbeitslosenentschädigung 100 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter-arbeitslosenentschaedigung/30d01bf9-906c-4885-9a8e-6fe2148b6f66"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-08T11:26:48Z",
+      "endDate": "2025-10-07T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-08T13:06:31.412379Z",
+      "hk_id": "1002091"
+    },
+    {
+      "id": "9728010",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Staatsanwaltschaft Aargau"
+        ],
+        "20": [
+          "Baden"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "1cc33008-e912-4444-bc2a-9af7c35abe23",
+      "title": "Lehrstelle Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-kauffrau-kaufmann-efz/1cc33008-e912-4444-bc2a-9af7c35abe23"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-07T22:00:00Z",
+      "endDate": "2025-10-08T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-08T13:08:17.57421Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9725274",
+      "attributes": {
+        "15": [
+          "Kultur & Sport"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%",
+          "bis 50%",
+          "50 - 80%"
+        ],
+        "30": [
+          "Abteilung Kultur"
+        ],
+        "20": [
+          "Wildegg",
+          "Lenzburg"
+        ],
+        "10": [
+          "Kultur / Wissenschaft"
+        ]
+      },
+      "viewkey": "e628925e-390e-46a7-94ab-feadd4e89377",
+      "title": "Vermittlerin und Vermittler auf Honorarbasis",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/vermittlerin-und-vermittler-auf-honorarbasis/e628925e-390e-46a7-94ab-feadd4e89377"
+      },
+      "szas": {
+        "sza_pensum.min": "0",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-09-30T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-08T12:00:08.130349Z",
+      "hk_id": "1002147"
+    },
+    {
+      "id": "9725898",
+      "attributes": {
+        "15": [
+          "Gesundheit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Gesundheit"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "a4dfcc51-347e-4ad6-95a4-fb8ef550c77a",
+      "title": "Sachbearbeiterin / Sachbearbeiter Administration 80-100 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter-administration/a4dfcc51-347e-4ad6-95a4-fb8ef550c77a"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-10-04T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-05T12:31:56.994641Z",
+      "hk_id": "1002390"
+    },
+    {
+      "id": "9726378",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Landschaft und Gewässer"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Umwelt / Natur / Landschaft / Wald"
+        ]
+      },
+      "viewkey": "7dc62815-abc5-47a6-afd7-80aced38fe9a",
+      "title": "Projektleiterin / Projektleiter Wasserbau 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/projektleiterin-projektleiter-wasserbau/7dc62815-abc5-47a6-afd7-80aced38fe9a"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-10-04T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-05T12:25:17.829271Z",
+      "hk_id": "1002099"
+    },
+    {
+      "id": "9725148",
+      "attributes": {
+        "15": [
+          "Gesundheit"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Kantonaler Sozialdienst"
+        ],
+        "20": [
+          "Buchs AG"
+        ],
+        "10": [
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "1618612a-62c0-45d0-9d1e-62b1a3a3389e",
+      "title": "Mitarbeiter/in Betreuung Nachtdienst 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mitarbeiter-in-betreuung-nachtdienst/1618612a-62c0-45d0-9d1e-62b1a3a3389e"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-10-04T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-05T12:48:50.585594Z",
+      "hk_id": "1002115"
+    },
+    {
+      "id": "9725857",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Informatik Aargau"
+        ],
+        "20": [
+          "Unterentfelden"
+        ],
+        "10": [
+          "Informatik"
+        ]
+      },
+      "viewkey": "720db5c3-55b2-40ab-afb7-a1fc006ec0fb",
+      "title": "Informatikerin / Informatiker EFZ Fachrichtung Plattformentwicklung",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/informatikerin-informatiker-efz-fachrichtung-plattformentwicklung/720db5c3-55b2-40ab-afb7-a1fc006ec0fb"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-05T22:00:00Z",
+      "endDate": "2025-10-05T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-05T12:28:44.157733Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9725853",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Informatik Aargau"
+        ],
+        "20": [
+          "Unterentfelden"
+        ],
+        "10": [
+          "Informatik"
+        ]
+      },
+      "viewkey": "6c936398-149c-45dc-9a14-0a876deb6b5c",
+      "title": "ICT-Fachfrau / ICT-Fachmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/ict-fachfrau-ict-fachmann-efz/6c936398-149c-45dc-9a14-0a876deb6b5c"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-05T22:00:00Z",
+      "endDate": "2025-10-05T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-05T12:27:07.471769Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9725576",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "50 - 80%"
+        ],
+        "30": [
+          "Bezirksgericht Baden"
+        ],
+        "20": [
+          "Baden"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "455cd9be-91e4-46a4-8455-b5012ef85cad",
+      "title": "Gerichtsschreiberin / Gerichtsschreiber 60%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/gerichtsschreiberin-gerichtsschreiber/455cd9be-91e4-46a4-8455-b5012ef85cad"
+      },
+      "szas": {
+        "sza_pensum.min": "50",
+        "sza_pensum.max": "70",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-09-26T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-05T12:29:53.567779Z",
+      "hk_id": "1002156"
+    },
+    {
+      "id": "9711446",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "bis 50%"
+        ],
+        "30": [
+          "Generalsekretariat DGS"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit",
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "9db2a6cd-a1a5-4b95-9c80-2e79b535d17f",
+      "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter Sozialversicherungen 50 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/wissenschaftliche-mitarbeiterin-wissenschaftlicher-mitarbeiter-sozialversicherungen/9db2a6cd-a1a5-4b95-9c80-2e79b535d17f"
+      },
+      "szas": {
+        "sza_pensum.min": "50",
+        "sza_pensum.max": "50",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-25T22:00:00Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-04T14:10:11.641509Z",
+      "hk_id": "1002112"
+    },
+    {
+      "id": "9723827",
+      "attributes": {
+        "15": [
+          "Bauen & Planen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Immobilien Aargau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Immobilien"
+        ]
+      },
+      "viewkey": "1cd30565-20c3-4eb2-a520-ee333eb37916",
+      "title": "Fachprojektleiter / Fachprojektleiterin Bauherrenvertretung Gebäudetechnik HLKK-S 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/fachprojektleiter-fachprojektleiterin-bauherrenvertretung-gebaeudetechnik-hlkk-s/1cd30565-20c3-4eb2-a520-ee333eb37916"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-10-04T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-04T13:05:33.345843Z",
+      "hk_id": "1002125"
+    },
+    {
+      "id": "9723045",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Justizvollzug / Jugendheim Aarburg"
+        ],
+        "20": [
+          "Aarburg"
+        ],
+        "10": [
+          "Handwerk / Technik"
+        ]
+      },
+      "viewkey": "97a11838-8a09-4c09-b4b7-ffe9dc3a0718",
+      "title": "Leiterin / Leiter Malerei 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/leiterin-leiter-malerei/97a11838-8a09-4c09-b4b7-ffe9dc3a0718"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-02T22:00:00Z",
+      "endDate": "2025-10-02T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-04T11:23:37.499269Z",
+      "hk_id": "1002084"
+    },
+    {
+      "id": "9721684",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Muri"
+        ],
+        "10": [
+          "Unterhalt / Hauswirtschaft"
+        ]
+      },
+      "viewkey": "d811907e-7b4b-4dcf-87e3-4246bca46da6",
+      "title": "Lehrstelle Fachfrau / Fachmann Betriebsunterhalt EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-fachfrau-fachmann-betriebsunterhalt-efz/d811907e-7b4b-4dcf-87e3-4246bca46da6"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-02T22:00:00Z",
+      "endDate": "2025-10-02T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-03T13:46:36.70962Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9721661",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung für Umwelt"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Labor / Chemie"
+        ]
+      },
+      "viewkey": "6e790065-6a59-4260-ba31-b4610218a934",
+      "title": "Lehrstelle Laborantin / Laborant EFZ Fachrichtung Chemie",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-laborantin-laborant-efz-fachrichtung-chemie/6e790065-6a59-4260-ba31-b4610218a934"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-02T22:00:00Z",
+      "endDate": "2025-10-02T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-03T13:47:27.303477Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9721693",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Windisch"
+        ],
+        "10": [
+          "Unterhalt / Hauswirtschaft"
+        ]
+      },
+      "viewkey": "7f975140-8958-4fb8-95db-06fec87ded54",
+      "title": "Lehrstelle Fachfrau / Fachmann Betriebsunterhalt EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-fachfrau-fachmann-betriebsunterhalt-efz/7f975140-8958-4fb8-95db-06fec87ded54"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-02T22:00:00Z",
+      "endDate": "2025-10-02T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-03T13:50:38.170976Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9721707",
+      "attributes": {
+        "15": [
+          "Bauen & Planen"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Umwelt / Natur / Landschaft / Wald"
+        ]
+      },
+      "viewkey": "9cdf3afb-97db-4668-b9a5-cf9d9fd8bf75",
+      "title": "Lehrstelle Zeichnerin / Zeichner EFZ Fachrichtung Ingenieurbau",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-zeichnerin-zeichner-efz-fachrichtung-ingenieurbau/9cdf3afb-97db-4668-b9a5-cf9d9fd8bf75"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-02T22:00:00Z",
+      "endDate": "2025-10-02T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-03T13:58:54.992079Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9721136",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Register und Personenstand"
+        ],
+        "20": [
+          "Wohlen"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "5a4ebdf2-19b9-47d6-a41c-00ff82faf129",
+      "title": "juristische Mitarbeiterin / juristischer Mitarbeiter 80 – 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/juristische-mitarbeiterin-juristischer-mitarbeiter-80/5a4ebdf2-19b9-47d6-a41c-00ff82faf129"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-01T22:00:00Z",
+      "endDate": "2025-10-01T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-02T12:59:24.783Z",
+      "hk_id": "1002087"
+    },
+    {
+      "id": "9711618",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Register und Personenstand"
+        ],
+        "20": [
+          "Laufenburg"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "d4993731-f593-45f9-b81e-c9fb4d9f9968",
+      "title": "Leiterin / Leiter Grundbuchamt 80 – 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/leiterin-leiter-grundbuchamt-80/d4993731-f593-45f9-b81e-c9fb4d9f9968"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-25T22:00:00Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-02T06:35:26.820107Z",
+      "hk_id": "1002087"
+    },
+    {
+      "id": "9691017",
+      "attributes": {
+        "15": [
+          "Bauen & Planen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Landwirtschaft Aargau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Landwirtschaft"
+        ]
+      },
+      "viewkey": "358fe84f-34ca-4e29-b629-e65f9a828cae",
+      "title": "Leiterin / Leiter Projektmanagement Landwirtschaftliche Infrastruktur 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/leiterin-leiter-projektmanagement-landwirtschaftliche-infrastruktur/358fe84f-34ca-4e29-b629-e65f9a828cae"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-14T22:00:00Z",
+      "endDate": "2025-09-13T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-02T06:37:15.896715Z",
+      "hk_id": "1002123"
+    },
+    {
+      "id": "9711404",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Rechtsabteilung"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "c3609bb7-65b1-4e8a-9f1a-0e79325b73c4",
+      "title": "Sektionsleiterin / Sektionsleiter 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sektionsleiterin-sektionsleiter/c3609bb7-65b1-4e8a-9f1a-0e79325b73c4"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit, Vollzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-25T14:05:41Z",
+      "endDate": "2025-09-23T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-02T06:37:13.730657Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9710933",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "50 - 80%"
+        ],
+        "30": [
+          "Generalsekretariat DVI"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "da95c7b4-7db9-4be3-9474-160e203ae6e1",
+      "title": "Fachverantwortliche / Fachverantwortlicher Projekt Weiterbildung Häusliche Gewalt 60 - 80%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/fachverantwortliche-fachverantwortlicher-projekt-weiterbildung-haeusliche-gewalt/da95c7b4-7db9-4be3-9474-160e203ae6e1"
+      },
+      "szas": {
+        "sza_pensum.min": "60",
+        "sza_pensum.max": "80",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-31T22:00:00Z",
+      "endDate": "2025-09-30T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-02T06:35:09.565671Z",
+      "hk_id": "1002080"
+    },
+    {
+      "id": "9719131",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "bis 50%"
+        ],
+        "30": [
+          "Bezirksgericht Baden"
+        ],
+        "20": [
+          "Baden"
+        ],
+        "10": [
+          "Administration",
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "60751c7d-3056-4ffd-b187-3826a7ca3b40",
+      "title": "Sachbearbeiterin / Sachbearbeiter 40%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter/60751c7d-3056-4ffd-b187-3826a7ca3b40"
+      },
+      "szas": {
+        "sza_pensum.min": "40",
+        "sza_pensum.max": "40",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-01T11:11:48Z",
+      "endDate": "2025-09-30T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-01T13:17:06.972732Z",
+      "hk_id": "1002156"
+    },
+    {
+      "id": "9718266",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz",
+          "Mobilität & Verkehr"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Strassenverkehrsamt"
+        ],
+        "20": [
+          "Schafisheim"
+        ],
+        "10": [
+          "Handwerk / Technik"
+        ]
+      },
+      "viewkey": "851f85ca-797a-42a4-9a8c-4bdb1bb38a05",
+      "title": "Verkehrsexperte / Verkehrsexpertin (100%)",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/verkehrsexperte-verkehrsexpertin/851f85ca-797a-42a4-9a8c-4bdb1bb38a05"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-31T22:00:00Z",
+      "endDate": "2025-09-30T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-01T13:18:13.218162Z",
+      "hk_id": "1002092"
+    },
+    {
+      "id": "9701013",
+      "attributes": {
+        "15": [
+          "Steuern & Finanzen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Kantonales Steueramt"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Finanzen / Controlling / Steuern"
+        ]
+      },
+      "viewkey": "cd31f749-8275-4067-94ad-b2afc7613bc8",
+      "title": "Revisorin / Revisor Buchprüfungen 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/revisorin-revisor-buchpruefungen/cd31f749-8275-4067-94ad-b2afc7613bc8"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-25T22:00:00Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-01T11:52:40.351088Z",
+      "hk_id": "1002122"
+    },
+    {
+      "id": "9717482",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "50 - 80%"
+        ],
+        "30": [
+          "Abteilung Berufsbildung und Mittelschule"
+        ],
+        "20": [
+          "Zofingen"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "7f9dcab8-c550-4914-beb0-116ff43bfc37",
+      "title": "Sachbearbeiterin / Sachbearbeiter Schulsekretariat 50-60%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter-schulsekretariat/7f9dcab8-c550-4914-beb0-116ff43bfc37"
+      },
+      "szas": {
+        "sza_pensum.min": "50",
+        "sza_pensum.max": "60",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-31T22:00:00Z",
+      "endDate": "2025-09-19T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-29T13:15:37.786945Z",
+      "hk_id": "1002142"
+    },
+    {
+      "id": "9699293",
+      "attributes": {
+        "15": [
+          "Staat & Politik"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "bis 50%"
+        ],
+        "30": [
+          "Generalsekretariat der Staatskanzlei"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "330898e0-145c-47df-9681-bbaff862a6dd",
+      "title": "Mitarbeiterin / Mitarbeiter Zentrale Dienste 20 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mitarbeiterin-mitarbeiter-zentrale-dienste/330898e0-145c-47df-9681-bbaff862a6dd"
+      },
+      "szas": {
+        "sza_pensum.min": "20",
+        "sza_pensum.max": "20",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-04T22:00:00Z",
+      "endDate": "2025-10-04T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-29T12:47:30.334319Z",
+      "hk_id": "1002150"
+    },
+    {
+      "id": "9715696",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Generalsekretariat BKS"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "HR / Personal"
+        ]
+      },
+      "viewkey": "438b5fd0-ecc9-4482-9ee5-497186d963ff",
+      "title": "WMS Praktikum HR 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/wms-praktikum-hr/438b5fd0-ecc9-4482-9ee5-497186d963ff"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Praktikum",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-30T22:00:00Z",
+      "endDate": "2025-09-29T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-28T12:16:35.99632Z",
+      "hk_id": "1002127"
+    },
+    {
+      "id": "9713078",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Berufsbildung und Mittelschule"
+        ],
+        "20": [
+          "Stein"
+        ],
+        "10": [
+          "Unterhalt / Hauswirtschaft",
+          "Labor / Chemie"
+        ]
+      },
+      "viewkey": "4201e8df-0641-42ce-81a7-589412b6ff5d",
+      "title": "Leitung Hausdienst und Physiklaborantin / Physiklaborant 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/leitung-hausdienst-und-physiklaborantin-physiklaborant/4201e8df-0641-42ce-81a7-589412b6ff5d"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-27T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-27T12:57:05.806978Z",
+      "hk_id": "1017001"
+    },
+    {
+      "id": "9712635",
+      "attributes": {
+        "15": [
+          "Steuern & Finanzen"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Generalsekretariat DFR"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "3d73e028-f462-448c-9538-230e836ed7e2",
+      "title": "Praktikum Controlling und Projekte 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/praktikum-controlling-und-projekte/3d73e028-f462-448c-9538-230e836ed7e2"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-26T22:00:00Z",
+      "endDate": "2025-09-25T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T13:09:18.345145Z",
+      "hk_id": "1002118"
+    },
+    {
+      "id": "9712256",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Bezirksgericht Kulm"
+        ],
+        "20": [
+          "Kulm"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "d46ed275-12b4-4629-8e6e-4eb7691d9c9a",
+      "title": "Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kauffrau-kaufmann-efz/d46ed275-12b4-4629-8e6e-4eb7691d9c9a"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-26T09:00:02Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T13:56:49.938758Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9711576",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Berufsbildung und Mittelschule"
+        ],
+        "20": [
+          "Baden"
+        ],
+        "10": [
+          "Bildung / Pädagogik / Psychologie"
+        ]
+      },
+      "viewkey": "ae71d99b-d7bc-4d0f-bfe0-01e6826005d0",
+      "title": "Mittelschullehrperson Geographie mit Immersion (Englisch) 125%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mittelschullehrperson-geographie-mit-immersion-englisch/ae71d99b-d7bc-4d0f-bfe0-01e6826005d0"
+      },
+      "szas": {
+        "sza_pensum.min": "50",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-26T22:00:00Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T13:35:30.669638Z",
+      "hk_id": "1002139"
+    },
+    {
+      "id": "9712273",
+      "attributes": {
+        "15": [
+          "Bauen & Planen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Bau / Mobilität / Verkehr / Energie"
+        ]
+      },
+      "viewkey": "bb168628-4b76-4862-b439-ed06db0ccce0",
+      "title": "Fachspezialistin / Fachspezialist Strassenlärm 80%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/fachspezialistin-fachspezialist-strassenlaerm/bb168628-4b76-4862-b439-ed06db0ccce0"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "80",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-26T09:21:52Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T13:34:12.238694Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9712656",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Wirtschaft und Arbeit"
+        ],
+        "20": [
+          "Baden"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "cbb7102c-a83c-49b1-b25e-1383a34027fa",
+      "title": "Sachbearbeiterin / Sachbearbeiter Arbeitslosenentschädigung 100 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter-arbeitslosenentschaedigung/cbb7102c-a83c-49b1-b25e-1383a34027fa"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-26T12:12:16Z",
+      "endDate": "2025-09-24T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T13:39:36.382435Z",
+      "hk_id": "1002091"
+    },
+    {
+      "id": "9699825",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "50 - 80%"
+        ],
+        "30": [
+          "Amt für Justizvollzug / JVA Lenzburg"
+        ],
+        "20": [
+          "Lenzburg"
+        ],
+        "10": [
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "674de7f4-1abb-42a6-b60e-8e96dbb143d3",
+      "title": "Sozialarbeiterin / Sozialarbeiter 80%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sozialarbeiterin-sozialarbeiter/674de7f4-1abb-42a6-b60e-8e96dbb143d3"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "80",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-17T22:00:00Z",
+      "endDate": "2025-10-16T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T10:10:47.055392Z",
+      "hk_id": "1002083"
+    },
+    {
+      "id": "9704651",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales",
+          "Migration & Integration",
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Wirtschaft und Arbeit"
+        ],
+        "20": [
+          "Rheinfelden"
+        ],
+        "10": [
+          "HR / Personal",
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "d054182c-ad55-4a4f-83a8-9c338eaaf8b5",
+      "title": "Personalberaterin / Personalberater RAV 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/personalberaterin-personalberater-rav/d054182c-ad55-4a4f-83a8-9c338eaaf8b5"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-19T22:00:00Z",
+      "endDate": "2025-09-18T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T09:10:35.601739Z",
+      "hk_id": "1002091"
+    },
+    {
+      "id": "9705951",
+      "attributes": {
+        "15": [
+          "Mobilität & Verkehr"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "50 - 80%"
+        ],
+        "30": [
+          "Strassenverkehrsamt"
+        ],
+        "20": [
+          "Schafisheim"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "18b67719-0d09-4ade-983e-a23c126179ad",
+      "title": "Sachbearbeiterin / Sachbearbeiter Fahrzeugzulassung (60%)",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter-fahrzeugzulassung/18b67719-0d09-4ade-983e-a23c126179ad"
+      },
+      "szas": {
+        "sza_pensum.min": "60",
+        "sza_pensum.max": "60",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-07T22:00:00Z",
+      "endDate": "2025-09-28T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T07:38:32.805944Z",
+      "hk_id": "1002092"
+    },
+    {
+      "id": "9706429",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "50 - 80%"
+        ],
+        "30": [
+          "Abteilung Berufsbildung und Mittelschule"
+        ],
+        "20": [
+          "Stein"
+        ],
+        "10": [
+          "Bildung / Pädagogik / Psychologie"
+        ]
+      },
+      "viewkey": "6caa3fbe-d3e7-4b0f-922a-2088e3816d12",
+      "title": "Mittelschullehrperson Chemie 50-60% mit Immersion (Englisch)",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mittelschullehrperson-chemie-mit-immersion-englisch/6caa3fbe-d3e7-4b0f-922a-2088e3816d12"
+      },
+      "szas": {
+        "sza_pensum.min": "50",
+        "sza_pensum.max": "60",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-24T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-25T15:34:28.504963Z",
+      "hk_id": "1017001"
+    },
+    {
+      "id": "9709417",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Immobilien Aargau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Immobilien"
+        ]
+      },
+      "viewkey": "050e5c6e-416e-4fdd-8ce5-a5f330d616db",
+      "title": "Beschaffungsspezialistin / Beschaffungsspezialist Immobilienmanagement 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/beschaffungsspezialistin-beschaffungsspezialist-immobilienmanagement/050e5c6e-416e-4fdd-8ce5-a5f330d616db"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-26T22:00:00Z",
+      "endDate": "2025-09-25T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-25T15:31:42.631496Z",
+      "hk_id": "1002125"
+    },
+    {
+      "id": "9706484",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Berufsbildung und Mittelschule"
+        ],
+        "20": [
+          "Stein"
+        ],
+        "10": [
+          "Bildung / Pädagogik / Psychologie"
+        ]
+      },
+      "viewkey": "d9861893-13b8-4910-8466-e51bac1715f4",
+      "title": "Mittelschullehrpersonen Mathematik und/oder Physik 60-120% mit Immersion (Englisch)",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mittelschullehrpersonen-mathematik-und-oder-physik-mit-immersion-englisch/d9861893-13b8-4910-8466-e51bac1715f4"
+      },
+      "szas": {
+        "sza_pensum.min": "60",
+        "sza_pensum.max": "120",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-24T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-25T15:33:13.786455Z",
+      "hk_id": "1017001"
+    },
+    {
+      "id": "9710795",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Bezirksgericht Muri"
+        ],
+        "20": [
+          "Muri"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "63e56b4a-6a8a-4b6d-94cf-aed2042e750b",
+      "title": "Rechtspraktikantin / Rechtspraktikant 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/rechtspraktikantin-rechtspraktikant/63e56b4a-6a8a-4b6d-94cf-aed2042e750b"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-25T09:52:58Z",
+      "endDate": "2025-09-23T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-25T15:30:33.328789Z",
+      "hk_id": "1002162"
+    },
+    {
+      "id": "9706321",
+      "attributes": {
+        "15": [
+          "Bildung & Forschung"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Berufsbildung und Mittelschule"
+        ],
+        "20": [
+          "Stein"
+        ],
+        "10": [
+          "Bildung / Pädagogik / Psychologie"
+        ]
+      },
+      "viewkey": "0d4b46fd-48df-4554-9df0-dfd7345a1242",
+      "title": "Mittelschullehrpersonen Französisch 90-110%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/mittelschullehrpersonen-franzoesisch/0d4b46fd-48df-4554-9df0-dfd7345a1242"
+      },
+      "szas": {
+        "sza_pensum.min": "90",
+        "sza_pensum.max": "110",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-24T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-25T15:36:08.934183Z",
+      "hk_id": "1017001"
+    },
+    {
+      "id": "9709179",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Bezirksgericht Brugg"
+        ],
+        "20": [
+          "Brugg"
+        ],
+        "10": [
+          "Administration",
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "e774d639-3323-453f-b627-ddc8555b15e5",
+      "title": "Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kauffrau-kaufmann-efz/e774d639-3323-453f-b627-ddc8555b15e5"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-22T09:36:14Z",
+      "endDate": "2025-09-20T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-25T05:56:59.628563Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9707086",
+      "attributes": {
+        "15": [
+          "Gesundheit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Verbraucherschutz"
+        ],
+        "20": [
+          "Unterentfelden"
+        ],
+        "10": [
+          "Labor / Chemie"
+        ]
+      },
+      "viewkey": "f10a6285-ed7e-4eb1-8787-fbe9160058fd",
+      "title": "Lehrstelle Laborant / Laborantin EFZ Fachrichtung Chemie",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/lehrstelle-laborant-laborantin-efz-fachrichtung-chemie/f10a6285-ed7e-4eb1-8787-fbe9160058fd"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-20T22:00:00Z",
+      "endDate": "2025-09-19T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-04T05:42:39.303045Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9706898",
+      "attributes": {
+        "15": [
+          "Bauen & Planen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Bau / Mobilität / Verkehr / Energie"
+        ]
+      },
+      "viewkey": "02565275-576b-460d-89f2-1ed361ddf980",
+      "title": "Projektleiterin / Projektleiter Strassenbau 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/projektleiterin-projektleiter-strassenbau/02565275-576b-460d-89f2-1ed361ddf980"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit, Vollzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-20T22:00:00Z",
+      "endDate": "2025-09-19T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-21T12:49:40.42679Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9704022",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Justizvollzug / JVA Lenzburg"
+        ],
+        "20": [
+          "Lenzburg"
+        ],
+        "10": [
+          "Landwirtschaft"
+        ]
+      },
+      "viewkey": "bcea7d64-c4c9-4e4a-9128-762aacfe7a72",
+      "title": "Landwirtin / Landwirt EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/landwirtin-landwirt-efz/bcea7d64-c4c9-4e4a-9128-762aacfe7a72"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-19T22:00:00Z",
+      "endDate": "2025-09-18T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-20T12:51:15.300932Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9705736",
+      "attributes": {
+        "15": [
+          "Steuern & Finanzen"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Generalsekretariat BKS"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Finanzen / Controlling / Steuern"
+        ]
+      },
+      "viewkey": "a9a14aec-b90e-4c72-bff7-d95bdd14593b",
+      "title": "WMS Praktikum Lohn Payroll 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/wms-praktikum-lohn-payroll/a9a14aec-b90e-4c72-bff7-d95bdd14593b"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Praktikum",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-02T22:00:00Z",
+      "endDate": "2025-09-11T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-20T12:42:17.974505Z",
+      "hk_id": "1002127"
+    },
+    {
+      "id": "9705900",
+      "attributes": {
+        "15": [
+          "Mobilität & Verkehr"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Strassenverkehrsamt"
+        ],
+        "20": [
+          "Schafisheim"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "759f6138-3fa5-4c39-ad26-84a3e807f64f",
+      "title": "Sachbearbeiterin / Sachbearbeiter Verkehrszulassung (100%)",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sachbearbeiterin-sachbearbeiter-verkehrszulassung/759f6138-3fa5-4c39-ad26-84a3e807f64f"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-09-07T22:00:00Z",
+      "endDate": "2025-09-28T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-26T07:33:27.625397Z",
+      "hk_id": "1002092"
+    },
+    {
+      "id": "9703608",
+      "attributes": {
+        "15": [
+          "Bauen & Planen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Bau / Mobilität / Verkehr / Energie"
+        ]
+      },
+      "viewkey": "04d31b7d-0097-4f8b-b707-406d0b5a67a9",
+      "title": "Projektleiterin / Projektleiter Strassenbau 80-100 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/projektleiterin-projektleiter-strassenbau/04d31b7d-0097-4f8b-b707-406d0b5a67a9"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit, Vollzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-18T22:00:00Z",
+      "endDate": "2025-09-17T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-19T12:54:42.429466Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9694886",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Sonderschulung, Heime und Werkstätten"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Bildung / Pädagogik / Psychologie"
+        ]
+      },
+      "viewkey": "ea164a61-e0c6-4d78-a21f-f49308821f8a",
+      "title": "Fachspezialistin / Fachspezialist Aufsicht Sonderschulen 60-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/fachspezialistin-fachspezialist-aufsicht-sonderschulen/ea164a61-e0c6-4d78-a21f-f49308821f8a"
+      },
+      "szas": {
+        "sza_pensum.min": "60",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-13T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-19T07:00:51.87068Z",
+      "hk_id": "1002129"
+    },
+    {
+      "id": "9701785",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Raumentwicklung"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "40aa7324-6e89-46ba-88bf-61aa56fe9f62",
+      "title": "Juristin / Jurist Planungs- und Baurecht 70-90%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/juristin-jurist-planungs-und-baurecht/40aa7324-6e89-46ba-88bf-61aa56fe9f62"
+      },
+      "szas": {
+        "sza_pensum.min": "70",
+        "sza_pensum.max": "90",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-18T06:53:35Z",
+      "endDate": "2025-09-16T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-18T13:16:07.877627Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9702628",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Justizvollzug"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "9f8a9ac9-4afd-4c85-8f1a-ec37b4f66e1d",
+      "title": "Rechtspraktikum 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/rechtspraktikum/9f8a9ac9-4afd-4c85-8f1a-ec37b4f66e1d"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Praktikum",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-19T22:00:00Z",
+      "endDate": "2025-09-18T21:59:59Z",
+      "lastModificationTimestamp": "2025-09-10T09:07:11.432055Z",
+      "hk_id": "1002082"
+    },
+    {
+      "id": "9702565",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Informatik Aargau"
+        ],
+        "20": [
+          "Unterentfelden"
+        ],
+        "10": [
+          "Informatik"
+        ]
+      },
+      "viewkey": "675d061f-2522-4adc-893d-ce65f82e25f3",
+      "title": "Netzwerk- und Infrastruktur-Architekt/in 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/netzwerk-und-infrastruktur-architekt-in/675d061f-2522-4adc-893d-ce65f82e25f3"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-18T22:00:00Z",
+      "endDate": "2025-09-17T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-18T13:20:56.296002Z",
+      "hk_id": "1002124"
+    },
+    {
+      "id": "9700900",
+      "attributes": {
+        "15": [
+          "Gesundheit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "bis 50%"
+        ],
+        "30": [
+          "Abteilung Gesundheit"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Finanzen / Controlling / Steuern"
+        ]
+      },
+      "viewkey": "8971bd33-628a-409f-b069-b674d85c407d",
+      "title": "Fachspezialistin / Fachspezialist Finanzen und Controlling 50%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/fachspezialistin-fachspezialist-finanzen-und-controlling/8971bd33-628a-409f-b069-b674d85c407d"
+      },
+      "szas": {
+        "sza_pensum.min": "50",
+        "sza_pensum.max": "50",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-15T12:12:02Z",
+      "endDate": "2025-09-13T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-15T14:41:37.258325Z",
+      "hk_id": "1002390"
+    },
+    {
+      "id": "9700669",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Bezirksgericht Baden"
+        ],
+        "20": [
+          "Baden"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "a3a7f1b9-db38-475f-9e24-86e07f6c57a3",
+      "title": "Rechtspraktikantin / Rechtspraktikant 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/rechtspraktikantin-rechtspraktikant/a3a7f1b9-db38-475f-9e24-86e07f6c57a3"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Praktikum",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-14T22:00:00Z",
+      "endDate": "2025-09-13T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-15T14:43:20.640368Z",
+      "hk_id": "1002156"
+    },
+    {
+      "id": "9699166",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur",
+          "Bauen & Planen"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Raumentwicklung"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Bau / Mobilität / Verkehr / Energie",
+          "Umwelt / Natur / Landschaft / Wald"
+        ]
+      },
+      "viewkey": "a6d3cd88-a8f7-49c9-b8ae-922c7784ae66",
+      "title": "Leiterin / Leiter Sektion Orts-, Siedlungs- und Regionalplanung Ost 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/leiterin-leiter-sektion-orts-siedlungs-und-regionalplanung-ost/a6d3cd88-a8f7-49c9-b8ae-922c7784ae66"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Teilzeit, Vollzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-13T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-15T13:24:42.014347Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9700422",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Immobilien Aargau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Immobilien"
+        ]
+      },
+      "viewkey": "93db2101-d7c9-4e76-a4d1-3bb3a981b53f",
+      "title": "Immobilienmanagerin / Immobilienmanager für den Betrieb und die Bewirtschaftung 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/immobilienmanagerin-immobilienmanager-fuer-den-betrieb-und-die-bewirtschaftung/93db2101-d7c9-4e76-a4d1-3bb3a981b53f"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-19T22:00:00Z",
+      "endDate": "2025-09-18T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-15T10:07:10.807695Z",
+      "hk_id": "1002125"
+    },
+    {
+      "id": "9698365",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Tiefbau"
+        ],
+        "20": [
+          "Felsenau"
+        ],
+        "10": [
+          "Unterhalt / Hauswirtschaft",
+          "Handwerk / Technik",
+          "Umwelt / Natur / Landschaft / Wald"
+        ]
+      },
+      "viewkey": "6a604431-6542-4ce8-a723-e44c5d94a68e",
+      "title": "Handwerkerin / Handwerker 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/handwerkerin-handwerker/6a604431-6542-4ce8-a723-e44c5d94a68e"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-13T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-14T14:02:20.44747Z",
+      "hk_id": "1002073"
+    },
+    {
+      "id": "9698376",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "bis 50%"
+        ],
+        "30": [
+          "DFR / LWAG / LZ Liebegg"
+        ],
+        "20": [
+          "Gränichen"
+        ],
+        "10": [
+          "Landwirtschaft"
+        ]
+      },
+      "viewkey": "9f12651d-4836-4c10-91ae-0cad91d5db3c",
+      "title": "Praktikant/ Praktikantin nachhaltige Ernährung 40-60%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/praktikant-praktikantin-nachhaltige-ernaehrung/9f12651d-4836-4c10-91ae-0cad91d5db3c"
+      },
+      "szas": {
+        "sza_pensum.min": "40",
+        "sza_pensum.max": "60",
+        "sza_pensum": "Teilzeit",
+        "sza_employment_type": "Praktikum",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-13T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-14T14:07:33.842761Z",
+      "hk_id": "1002197"
+    },
+    {
+      "id": "9696415",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Wirtschaft und Arbeit"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "3a98c15a-070b-43d1-a01b-0bc45d740681",
+      "title": "Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kauffrau-kaufmann-efz/3a98c15a-070b-43d1-a01b-0bc45d740681"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-12T22:00:00Z",
+      "endDate": "2025-09-11T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-13T13:32:33.460181Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9696766",
+      "attributes": {
+        "15": [
+          "Sicherheit & Justiz"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Staatsanwaltschaft Aargau"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "b2bbea9a-ff49-4d80-8251-6a43fa0e4ded",
+      "title": "Kaufmännisches Praktikum WMS 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kaufmaennisches-praktikum-wms/b2bbea9a-ff49-4d80-8251-6a43fa0e4ded"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-12T22:00:00Z",
+      "endDate": "2025-09-11T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-13T13:19:19.773614Z",
+      "hk_id": "1002085"
+    },
+    {
+      "id": "9696727",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Wirtschaft und Arbeit"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "e1500fcd-f9df-4356-ac0e-fbd1fe546ac5",
+      "title": "Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kauffrau-kaufmann-efz/e1500fcd-f9df-4356-ac0e-fbd1fe546ac5"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-12T22:00:00Z",
+      "endDate": "2025-09-11T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-13T13:35:53.296376Z",
+      "hk_id": "1014965"
+    },
+    {
+      "id": "9696298",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Abteilung Sonderschulung, Heime und Werkstätten"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Gesundheit / Soziales / Asyl"
+        ]
+      },
+      "viewkey": "d027638d-8e98-4501-b979-3b5ea2d935e9",
+      "title": "Projektleiterin / Projektleiter Technologienutzung bei Behinderung 80-100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/projektleiterin-projektleiter-technologienutzung-bei-behinderung/d027638d-8e98-4501-b979-3b5ea2d935e9"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Temporär",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-13T22:00:00Z",
+      "endDate": "2025-09-11T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-13T13:30:12.420865Z",
+      "hk_id": "1002129"
+    },
+    {
+      "id": "9687904",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Praktika"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Kantonaler Sozialdienst"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Recht / Justiz / Sicherheit"
+        ]
+      },
+      "viewkey": "f4e807be-79e2-4c1d-817b-a3b130b20b4b",
+      "title": "Rechtspraktikantin / Rechtspraktikant 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/rechtspraktikantin-rechtspraktikant/f4e807be-79e2-4c1d-817b-a3b130b20b4b"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-13T22:00:00Z",
+      "endDate": "2025-09-12T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-13T08:33:15.744704Z",
+      "hk_id": "1002115"
+    },
+    {
+      "id": "9688629",
+      "attributes": {
+        "15": [
+          "Umwelt & Natur"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Führungsfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Justizvollzug / JVA Lenzburg"
+        ],
+        "20": [
+          "Lenzburg"
+        ],
+        "10": [
+          "Landwirtschaft"
+        ]
+      },
+      "viewkey": "a51ab770-3da4-4f76-8d17-aba0d0e22b68",
+      "title": "Meisterlandwirtin / Meisterlandwirt 100 %",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/meisterlandwirtin-meisterlandwirt/a51ab770-3da4-4f76-8d17-aba0d0e22b68"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-05T22:00:00Z",
+      "endDate": "2025-10-04T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-12T07:01:19.304834Z",
+      "hk_id": "1002083"
+    },
+    {
+      "id": "9694876",
+      "attributes": {
+        "15": [
+          "Gesellschaft & Soziales"
+        ],
+        "70": [
+          "unbefristet"
+        ],
+        "60": [
+          "0"
+        ],
+        "50": [
+          "Fachfunktionen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Amt für Justizvollzug / Jugendheim Aarburg"
+        ],
+        "20": [
+          "Aarburg"
+        ],
+        "10": [
+          "Bildung / Pädagogik / Psychologie"
+        ]
+      },
+      "viewkey": "3462e4a6-3a6f-4516-9a3f-ff0ab2cc68b8",
+      "title": "Sozialpädagogin / Sozialpädagoge HF/FH 80 - 100%",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/sozialpaedagogin-sozialpaedagoge-hf-fh/3462e4a6-3a6f-4516-9a3f-ff0ab2cc68b8"
+      },
+      "szas": {
+        "sza_pensum.min": "80",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit, Teilzeit möglich",
+        "sza_employment_type": "Festanstellung",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-11T22:00:00Z",
+      "endDate": "2025-09-10T21:59:59Z",
+      "lastModificationTimestamp": "2025-08-11T13:06:23.951673Z",
+      "hk_id": "1002084"
+    },
+    {
+      "id": "9675499",
+      "attributes": {
+        "15": [
+          "Wirtschaft & Arbeit"
+        ],
+        "70": [
+          "befristet"
+        ],
+        "60": [
+          "1"
+        ],
+        "50": [
+          "Lehrstellen"
+        ],
+        "40": [
+          "80 - 100%"
+        ],
+        "30": [
+          "Administration"
+        ],
+        "20": [
+          "Aarau"
+        ],
+        "10": [
+          "Administration"
+        ]
+      },
+      "viewkey": "dbe75afb-07af-4246-b44a-f8033fbda4e6",
+      "title": "Kauffrau / Kaufmann EFZ",
+      "links": {
+        "directlink": "https://jobs.ag.ch/offene-stellen/kauffrau-kaufmann-efz/dbe75afb-07af-4246-b44a-f8033fbda4e6"
+      },
+      "szas": {
+        "sza_pensum.min": "100",
+        "sza_pensum.max": "100",
+        "sza_pensum": "Vollzeit",
+        "sza_employment_type": "Lernende",
+        "sza_start_date": null
+      },
+      "startDate": "2025-08-24T22:00:00Z",
+      "endDate": "2025-09-23T21:59:59Z",
+      "lastModificationTimestamp": "2025-07-25T13:13:58.905975Z",
+      "hk_id": "1014965"
+    }
+  ]
+}
